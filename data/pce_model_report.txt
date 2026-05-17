@@ -1,0 +1,24 @@
+PCE Model Training Report
+==============================
+Input file: spacelis_model_hazir_veri.csv
+Rows x Cols (raw): 41519 x 223
+Fully-NaN columns removed: 17
+Duplicate rows removed: 880
+Rows after cleaning: 40613
+Leakage columns excluded: 15
+Features used: 190
+Target: JV_default_PCE
+
+Holdout (20%) metrics:
+MAE  : 2.4347
+RMSE : 3.2875
+R2   : 0.6056
+
+3-Fold CV metrics (mean +- std):
+MAE  : 2.4873 +- 0.0137
+RMSE : 3.3647 +- 0.0308
+R2   : 0.5851 +- 0.0085
+
+Saved cleaned dataset: spacelis_model_hazir_veri_clean_for_pce.csv
+Saved model: spacelis_rf_pce_clean.pkl
+Saved top features: pce_feature_importance_top30.csv

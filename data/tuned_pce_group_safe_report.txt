@@ -1,0 +1,13 @@
+Tuned PCE Model Report (Group-Safe)
+==================================
+Rows used: 40047
+Features used: 53
+Group column: Ref_DOI_number
+Unique groups: 7325
+
+- XGB_tuned_group_safe: CV R2=0.3371, Holdout R2=0.3699, MAE=3.2372, RMSE=4.1386
+  params: {'model__subsample': 0.8, 'model__reg_lambda': 1.0, 'model__n_estimators': 220, 'model__min_child_weight': 3, 'model__max_depth': 7, 'model__learning_rate': 0.04, 'model__colsample_bytree': 0.6}
+- RF_tuned_group_safe: CV R2=0.3254, Holdout R2=0.3636, MAE=3.2651, RMSE=4.1595
+  params: {'model__n_estimators': 180, 'model__min_samples_split': 2, 'model__min_samples_leaf': 2, 'model__max_features': 'sqrt', 'model__max_depth': 40}
+
+Best model saved: tuned_pce_group_safe_best_model.pkl (XGB_tuned_group_safe)

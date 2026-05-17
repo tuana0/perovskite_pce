@@ -1,0 +1,11 @@
+Tuned PCE Model Report
+========================
+Rows used: 41519
+Features used: 190
+
+- XGB_tuned: CV R2=0.3638, Holdout R2=0.3657, MAE=3.3329, RMSE=4.2041
+  params: {'subsample': 0.9, 'reg_lambda': 5.0, 'n_estimators': 180, 'min_child_weight': 1, 'max_depth': 5, 'learning_rate': 0.08, 'colsample_bytree': 0.75}
+- RF_tuned: CV R2=0.3438, Holdout R2=0.3531, MAE=3.3593, RMSE=4.2456
+  params: {'n_estimators': 140, 'min_samples_split': 8, 'min_samples_leaf': 4, 'max_features': 0.5, 'max_depth': 16}
+
+Best model saved: tuned_best_pce_model.pkl (XGB_tuned)

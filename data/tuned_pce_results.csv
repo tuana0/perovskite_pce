@@ -1,0 +1,3 @@
+model,cv_r2_best,holdout_r2,holdout_mae,holdout_rmse,best_params
+XGB_tuned,0.36376194866560024,0.3657144376830016,3.33289253276179,4.20412147047369,"{'subsample': 0.9, 'reg_lambda': 5.0, 'n_estimators': 180, 'min_child_weight': 1, 'max_depth': 5, 'learning_rate': 0.08, 'colsample_bytree': 0.75}"
+RF_tuned,0.3438388907997085,0.3531489451958313,3.359311359245771,4.245560050021899,"{'n_estimators': 140, 'min_samples_split': 8, 'min_samples_leaf': 4, 'max_features': 0.5, 'max_depth': 16}"

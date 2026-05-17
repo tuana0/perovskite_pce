@@ -1,0 +1,17 @@
+Feature Combination Search Report
+=================================
+Rows used: 41519
+Feature pool size: 18
+Pool features: Perovskite_deposition_quenching_induced_crystallisation, Cell_area_measured, Perovskite_composition_leadfree, Perovskite_band_gap, Backcontact_thickness_list, Perovskite_deposition_thermal_annealing_time, Perovskite_thickness, JV_scan_speed, Perovskite_composition_c_ions_Br; I, Stability_measured, Perovskite_deposition_thermal_annealing_temperature, ETL_thickness, Perovskite_composition_c_ions_Br, Perovskite_composition_inorganic, Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid, EQE_measured, Stabilised_performance_measured, JV_test_atmosphere_N2
+Total combinations evaluated: 813
+
+Best combo (k=5):
+Backcontact_thickness_list | Cell_area_measured | Perovskite_composition_c_ions_Br | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_thickness
+R2=0.3423, MAE=3.2809, RMSE=4.2472
+
+Top 5 combos:
+- k=5, R2=0.3423: Backcontact_thickness_list | Cell_area_measured | Perovskite_composition_c_ions_Br | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_thickness
+- k=5, R2=0.3421: Cell_area_measured | Perovskite_band_gap | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_thickness
+- k=5, R2=0.3268: Cell_area_measured | JV_scan_speed | Perovskite_band_gap | Perovskite_composition_leadfree | Perovskite_deposition_thermal_annealing_time
+- k=5, R2=0.3254: Cell_area_measured | EQE_measured | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_time | Perovskite_thickness
+- k=5, R2=0.3247: Backcontact_thickness_list | Cell_area_measured | JV_scan_speed | Perovskite_deposition_thermal_annealing_temperature | Perovskite_thickness

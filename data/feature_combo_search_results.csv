@@ -1,0 +1,814 @@
+k,features,r2,mae,rmse
+5,Backcontact_thickness_list | Cell_area_measured | Perovskite_composition_c_ions_Br | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_thickness,0.342329206944471,3.280896210204976,4.247196115918065
+5,Cell_area_measured | Perovskite_band_gap | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_thickness,0.3421415343448574,3.26490937096752,4.24780206154384
+5,Cell_area_measured | JV_scan_speed | Perovskite_band_gap | Perovskite_composition_leadfree | Perovskite_deposition_thermal_annealing_time,0.32681452845085845,3.302925892970944,4.297000505460261
+5,Cell_area_measured | EQE_measured | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_time | Perovskite_thickness,0.3254213696608629,3.3272028793517974,4.301444533339175
+5,Backcontact_thickness_list | Cell_area_measured | JV_scan_speed | Perovskite_deposition_thermal_annealing_temperature | Perovskite_thickness,0.32474915920632585,3.3056588984288946,4.303587171633878
+5,Cell_area_measured | Perovskite_band_gap | Perovskite_composition_inorganic | Perovskite_deposition_thermal_annealing_time | Perovskite_thickness,0.32175726078803835,3.2936220390954922,4.3131107914279045
+5,Backcontact_thickness_list | Cell_area_measured | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_time | Stability_measured,0.318796673893158,3.3434598578280896,4.322514087672042
+5,Backcontact_thickness_list | Cell_area_measured | Perovskite_composition_leadfree | Perovskite_deposition_quenching_induced_crystallisation | Stabilised_performance_measured,0.3156422418879202,3.386570723557955,4.332510609851975
+5,Backcontact_thickness_list | Cell_area_measured | JV_test_atmosphere_N2 | Perovskite_deposition_thermal_annealing_temperature | Perovskite_deposition_thermal_annealing_time,0.30913511517384995,3.35732596750202,4.353059435712481
+5,Backcontact_thickness_list | Cell_area_measured | EQE_measured | JV_scan_speed | Perovskite_deposition_thermal_annealing_time,0.30597641658332253,3.368414941221804,4.362999383637892
+5,Backcontact_thickness_list | Cell_area_measured | Perovskite_band_gap | Perovskite_composition_c_ions_Br; I | Stability_measured,0.30412417168126626,3.4099764942599426,4.368817599883496
+5,Backcontact_thickness_list | Perovskite_band_gap | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_thickness,0.30336397753932554,3.4028350187590277,4.371203257552251
+5,Backcontact_thickness_list | Cell_area_measured | Perovskite_band_gap | Perovskite_composition_c_ions_Br | Perovskite_composition_c_ions_Br; I,0.30144370979685287,3.404436855426369,4.3772236928261465
+5,JV_scan_speed | Perovskite_band_gap | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_temperature | Perovskite_deposition_thermal_annealing_time,0.2984283116969667,3.4000078389037585,4.386660912864833
+5,Backcontact_thickness_list | Cell_area_measured | ETL_thickness | Perovskite_composition_c_ions_Br | Perovskite_deposition_quenching_induced_crystallisation,0.29625412732516354,3.4262438782555913,4.393452828810699
+5,JV_scan_speed | Perovskite_band_gap | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_temperature | Perovskite_thickness,0.2956161322622034,3.404138945662821,4.395443864446836
+5,Cell_area_measured | ETL_thickness | Perovskite_band_gap | Perovskite_composition_c_ions_Br; I | Perovskite_thickness,0.29253807021089817,3.4118096416509136,4.405037142571545
+5,Backcontact_thickness_list | Cell_area_measured | Perovskite_band_gap | Perovskite_composition_leadfree | Stability_measured,0.29098060848730856,3.437893106452088,4.409883272586135
+5,Cell_area_measured | JV_scan_speed | Perovskite_composition_c_ions_Br; I | Perovskite_composition_leadfree | Perovskite_thickness,0.2904080395431049,3.448861326365015,4.411663514908688
+4,Cell_area_measured | Perovskite_composition_leadfree | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_temperature,0.2870894486404296,3.4703510458406615,4.421967626003637
+5,Backcontact_thickness_list | Cell_area_measured | ETL_thickness | Perovskite_composition_inorganic | Perovskite_thickness,0.2824959835628492,3.448958229158362,4.436190686463833
+5,Backcontact_thickness_list | Perovskite_band_gap | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_time | Stabilised_performance_measured,0.2816437963032218,3.469669327188804,4.438824360449627
+4,Backcontact_thickness_list | Cell_area_measured | Perovskite_composition_leadfree | Perovskite_deposition_thermal_annealing_time,0.2760682470587631,3.478429761866648,4.456017117186259
+4,Cell_area_measured | Perovskite_band_gap | Perovskite_deposition_quenching_induced_crystallisation | Stabilised_performance_measured,0.27312318739743613,3.495216710462776,4.465071780474508
+5,Backcontact_thickness_list | Cell_area_measured | ETL_thickness | Perovskite_composition_c_ions_Br | Perovskite_thickness,0.27225281673707835,3.4808328292801467,4.4677442448710885
+5,Backcontact_thickness_list | Cell_area_measured | EQE_measured | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_quenching_induced_crystallisation,0.2704445163959389,3.5025916837674997,4.4732915085226885
+5,EQE_measured | Perovskite_composition_leadfree | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_time | Perovskite_thickness,0.2681666626295659,3.544933718694383,4.480269430689115
+5,Backcontact_thickness_list | Cell_area_measured | JV_test_atmosphere_N2 | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_thermal_annealing_temperature,0.2681260532754197,3.5118384497436073,4.480393733802128
+5,JV_scan_speed | Perovskite_band_gap | Perovskite_composition_inorganic | Perovskite_composition_leadfree | Perovskite_deposition_quenching_induced_crystallisation,0.26562080772085217,3.529315148503813,4.488055502217223
+5,Cell_area_measured | JV_scan_speed | Perovskite_composition_c_ions_Br | Perovskite_deposition_quenching_induced_crystallisation | Stabilised_performance_measured,0.26455053549015206,3.528009217561584,4.4913247208881195
+4,Cell_area_measured | ETL_thickness | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_thickness,0.2641949809366151,3.505404666719864,4.492410259781101
+4,Cell_area_measured | Perovskite_band_gap | Perovskite_composition_inorganic | Perovskite_deposition_thermal_annealing_time,0.26419085582590296,3.500265452855951,4.492422852562635
+5,Cell_area_measured | JV_scan_speed | Perovskite_composition_c_ions_Br | Perovskite_composition_c_ions_Br; I | Perovskite_composition_leadfree,0.2616266630972076,3.552290436530504,4.500243779797752
+5,Cell_area_measured | Perovskite_composition_c_ions_Br | Perovskite_composition_leadfree | Perovskite_deposition_thermal_annealing_time | Stability_measured,0.2612539337002776,3.550216881920702,4.501379493559348
+5,Perovskite_band_gap | Perovskite_composition_c_ions_Br; I | Perovskite_composition_inorganic | Perovskite_composition_leadfree | Perovskite_thickness,0.2608731409300601,3.558611767821968,4.502539480743324
+5,Cell_area_measured | Perovskite_composition_inorganic | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_temperature | Perovskite_deposition_thermal_annealing_time,0.26077693818727143,3.517346274290468,4.5028324903590216
+5,Cell_area_measured | EQE_measured | JV_scan_speed | Perovskite_composition_leadfree | Perovskite_thickness,0.2603645811113515,3.534599034718263,4.504088211445351
+5,JV_scan_speed | Perovskite_composition_c_ions_Br | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_time | Perovskite_thickness,0.2591263900520274,3.5216157950218814,4.50785668273764
+5,Cell_area_measured | EQE_measured | Perovskite_band_gap | Perovskite_composition_c_ions_Br | Perovskite_composition_c_ions_Br; I,0.2577328169332518,3.5565601164443117,4.51209429930609
+5,Cell_area_measured | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_thermal_annealing_temperature | Perovskite_thickness | Stability_measured,0.2575619519496506,3.5505438595392915,4.512613596517218
+5,EQE_measured | Perovskite_band_gap | Perovskite_composition_inorganic | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_time,0.25589426116090896,3.568861226797769,4.517678950316829
+5,Perovskite_band_gap | Perovskite_composition_c_ions_Br | Perovskite_composition_c_ions_Br; I | Perovskite_composition_leadfree | Perovskite_thickness,0.25426770325576675,3.583996328106295,4.522613904264178
+5,Backcontact_thickness_list | Cell_area_measured | JV_scan_speed | JV_test_atmosphere_N2 | Perovskite_composition_inorganic,0.2539759056286688,3.540693794897196,4.523498644633718
+5,Perovskite_composition_c_ions_Br; I | Perovskite_composition_inorganic | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_temperature | Perovskite_thickness,0.25376885234295155,3.579567665687422,4.524126332322684
+5,ETL_thickness | Perovskite_composition_leadfree | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_time | Stability_measured,0.253748975663616,3.610096689279338,4.524186584437502
+5,ETL_thickness | JV_scan_speed | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_temperature | Perovskite_deposition_thermal_annealing_time,0.2535126734869855,3.549008538123494,4.524902825008449
+5,Backcontact_thickness_list | ETL_thickness | JV_scan_speed | Perovskite_band_gap | Perovskite_deposition_thermal_annealing_time,0.2534098576616076,3.515262999230658,4.525214428155527
+5,Backcontact_thickness_list | Cell_area_measured | ETL_thickness | JV_scan_speed | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.252595657095691,3.5277989556700766,4.527681262342164
+4,Cell_area_measured | JV_test_atmosphere_N2 | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_thickness,0.2501696489082972,3.556663723901934,4.535023534918809
+5,Backcontact_thickness_list | JV_scan_speed | Perovskite_composition_leadfree | Perovskite_deposition_thermal_annealing_temperature | Perovskite_deposition_thermal_annealing_time,0.2500232093535394,3.558237402475375,4.535466351353863
+4,ETL_thickness | Perovskite_band_gap | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_thickness,0.24970646703733201,3.560761339447384,4.5364239959689
+5,Cell_area_measured | Perovskite_composition_c_ions_Br | Perovskite_composition_inorganic | Perovskite_deposition_thermal_annealing_temperature | Perovskite_thickness,0.24954019401637162,3.538278257897021,4.53692662800841
+5,Cell_area_measured | Perovskite_composition_c_ions_Br | Perovskite_composition_c_ions_Br; I | Perovskite_composition_leadfree | Stability_measured,0.24914503717247805,3.6135258344018215,4.538120936920355
+4,Cell_area_measured | JV_scan_speed | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_quenching_induced_crystallisation,0.24886968327004722,3.572689737260127,4.538952971620823
+5,JV_scan_speed | Perovskite_band_gap | Perovskite_composition_c_ions_Br; I | Perovskite_composition_inorganic | Perovskite_deposition_thermal_annealing_temperature,0.2470992779679666,3.586179780227878,4.544298952695315
+5,EQE_measured | Perovskite_composition_c_ions_Br | Perovskite_composition_inorganic | Perovskite_composition_leadfree | Perovskite_deposition_quenching_induced_crystallisation,0.24680597867852838,3.6259843980899946,4.545184002898591
+5,Perovskite_composition_inorganic | Perovskite_composition_leadfree | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_time | Stabilised_performance_measured,0.24676065672133596,3.6128972206884984,4.5453207495602825
+5,ETL_thickness | Perovskite_composition_c_ions_Br; I | Perovskite_composition_leadfree | Perovskite_deposition_quenching_induced_crystallisation | Stabilised_performance_measured,0.2463708349140924,3.6350860675016325,4.5464967608620865
+4,Backcontact_thickness_list | Cell_area_measured | Perovskite_composition_c_ions_Br | Perovskite_thickness,0.24567335698440262,3.5682549059861577,4.548600147999668
+5,Cell_area_measured | ETL_thickness | Perovskite_composition_c_ions_Br | Perovskite_deposition_quenching_induced_crystallisation | Stability_measured,0.24552895644462358,3.579812104912812,4.54903549579758
+4,Cell_area_measured | Perovskite_composition_c_ions_Br | Perovskite_deposition_thermal_annealing_time | Perovskite_thickness,0.24516376633294878,3.535356853934283,4.550136307960201
+5,Perovskite_composition_inorganic | Perovskite_composition_leadfree | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_thickness,0.244829709998176,3.607898159759606,4.551143038729188
+5,Cell_area_measured | EQE_measured | JV_scan_speed | Perovskite_deposition_thermal_annealing_time | Stability_measured,0.24290529413897177,3.5777442200932112,4.556938234410108
+5,Cell_area_measured | ETL_thickness | JV_scan_speed | Perovskite_deposition_thermal_annealing_time | Stability_measured,0.24267055038604757,3.55672037589799,4.557644638687631
+4,Backcontact_thickness_list | Cell_area_measured | Perovskite_deposition_thermal_annealing_time | Stability_measured,0.24194660666616707,3.5803845839315773,4.559822482217639
+5,Cell_area_measured | JV_test_atmosphere_N2 | Perovskite_deposition_thermal_annealing_time | Perovskite_thickness | Stability_measured,0.2411986203515183,3.5672262217973025,4.562071561181706
+5,Cell_area_measured | Perovskite_band_gap | Perovskite_composition_c_ions_Br | Perovskite_deposition_thermal_annealing_temperature | Stabilised_performance_measured,0.24096861097549316,3.569160061496417,4.562762940873038
+5,Cell_area_measured | ETL_thickness | Perovskite_composition_c_ions_Br | Perovskite_deposition_quenching_induced_crystallisation | Stabilised_performance_measured,0.2406150395147013,3.5936723588484694,4.5638255286349505
+5,Backcontact_thickness_list | Cell_area_measured | EQE_measured | Perovskite_composition_c_ions_Br | Perovskite_composition_c_ions_Br; I,0.24040791987779153,3.6118700182569876,4.564447870062831
+4,Cell_area_measured | Perovskite_composition_c_ions_Br; I | Perovskite_composition_inorganic | Perovskite_thickness,0.24007252701174342,3.607382803633564,4.565455459756414
+5,Cell_area_measured | JV_scan_speed | Perovskite_band_gap | Perovskite_composition_c_ions_Br | Perovskite_composition_inorganic,0.23990002585833958,3.5708246536757,4.565973602390448
+5,Backcontact_thickness_list | Cell_area_measured | JV_test_atmosphere_N2 | Perovskite_thickness | Stability_measured,0.2398769450475664,3.5928352170976963,4.5660429258849105
+4,Cell_area_measured | Perovskite_band_gap | Perovskite_composition_leadfree | Perovskite_deposition_thermal_annealing_temperature,0.23968546660091972,3.572302212842708,4.566617993137541
+5,Cell_area_measured | Perovskite_composition_c_ions_Br; I | Perovskite_composition_inorganic | Perovskite_deposition_thermal_annealing_temperature | Stabilised_performance_measured,0.23930327922265315,3.6041460867886617,4.5677656000875535
+5,Backcontact_thickness_list | ETL_thickness | Perovskite_composition_inorganic | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_time,0.23909934044090808,3.6046349501635344,4.568377855996616
+5,Backcontact_thickness_list | Cell_area_measured | JV_test_atmosphere_N2 | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_temperature,0.238792631225471,3.5731473504963165,4.569298490248375
+4,Cell_area_measured | EQE_measured | Perovskite_deposition_thermal_annealing_time | Perovskite_thickness,0.23830652329618573,3.5726369630747548,4.570757237116087
+4,Cell_area_measured | Perovskite_composition_c_ions_Br | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_quenching_induced_crystallisation,0.23821651954515133,3.619398356133535,4.571027275627056
+5,JV_test_atmosphere_N2 | Perovskite_band_gap | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_quenching_induced_crystallisation | Stabilised_performance_measured,0.23815075315441758,3.635767539809965,4.5712245846299195
+5,EQE_measured | JV_scan_speed | Perovskite_band_gap | Perovskite_composition_c_ions_Br; I | Perovskite_composition_inorganic,0.23751861956802822,3.630895944045497,4.5731206457241225
+5,Cell_area_measured | Perovskite_composition_c_ions_Br; I | Perovskite_composition_leadfree | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Stability_measured,0.23679800060820133,3.6643881947927,4.57528115695666
+5,JV_scan_speed | JV_test_atmosphere_N2 | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_time | Perovskite_thickness,0.23625286419741187,3.5913072924236733,4.576914870659794
+5,Backcontact_thickness_list | Perovskite_band_gap | Perovskite_composition_c_ions_Br | Perovskite_deposition_thermal_annealing_temperature | Perovskite_thickness,0.23575049297814832,3.588831554639421,4.578419905648003
+4,Backcontact_thickness_list | Perovskite_band_gap | Perovskite_composition_inorganic | Perovskite_deposition_quenching_induced_crystallisation,0.23402590664100342,3.628460781145263,4.583582768659143
+4,Cell_area_measured | Perovskite_composition_leadfree | Perovskite_deposition_thermal_annealing_time | Stability_measured,0.23298512293093643,3.638275404398825,4.58669573221088
+5,Perovskite_band_gap | Perovskite_composition_c_ions_Br | Perovskite_deposition_quenching_induced_crystallisation | Stabilised_performance_measured | Stability_measured,0.2324952141030857,3.64870139834756,4.58816030877896
+5,Cell_area_measured | EQE_measured | JV_test_atmosphere_N2 | Perovskite_composition_inorganic | Perovskite_deposition_quenching_induced_crystallisation,0.23244149491817112,3.633762182770981,4.58832087319755
+5,JV_scan_speed | Perovskite_composition_inorganic | Perovskite_deposition_thermal_annealing_temperature | Perovskite_deposition_thermal_annealing_time | Perovskite_thickness,0.23220326124987167,3.588605209830612,4.58903287606168
+4,Backcontact_thickness_list | Perovskite_composition_inorganic | Perovskite_composition_leadfree | Perovskite_deposition_quenching_induced_crystallisation,0.23213590466698342,3.6503972449917095,4.589234162925015
+5,JV_test_atmosphere_N2 | Perovskite_composition_inorganic | Perovskite_composition_leadfree | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_time,0.2318100973814201,3.6572614788799713,4.590207673317644
+4,Cell_area_measured | Perovskite_band_gap | Perovskite_thickness | Stabilised_performance_measured,0.23144720856471945,3.5996750599842726,4.591291740128901
+5,Backcontact_thickness_list | Perovskite_band_gap | Perovskite_composition_leadfree | Perovskite_deposition_thermal_annealing_temperature | Stability_measured,0.2310592761815793,3.6538294196725714,4.5924503372129095
+5,EQE_measured | JV_scan_speed | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_thickness,0.23019635824607876,3.64428104216733,4.595026476344631
+4,ETL_thickness | Perovskite_composition_leadfree | Perovskite_deposition_quenching_induced_crystallisation | Stability_measured,0.22996669819052196,3.6858036917147894,4.595711855889703
+4,Backcontact_thickness_list | Cell_area_measured | Perovskite_composition_leadfree | Stability_measured,0.22990758322946503,3.6623184388066066,4.595888257425107
+4,ETL_thickness | Perovskite_composition_c_ions_Br | Perovskite_composition_leadfree | Perovskite_deposition_quenching_induced_crystallisation,0.22975196438203815,3.6692050425020883,4.59635259825595
+5,Perovskite_composition_c_ions_Br | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_time | Perovskite_thickness,0.22952626673601595,3.6294173718213596,4.5970259592587155
+5,Backcontact_thickness_list | Cell_area_measured | EQE_measured | Perovskite_composition_c_ions_Br; I | Stability_measured,0.22950408253090537,3.658474869791381,4.59709213973204
+4,Cell_area_measured | JV_scan_speed | Perovskite_composition_leadfree | Perovskite_deposition_thermal_annealing_temperature,0.22919858956200612,3.624887051230894,4.598003397090236
+4,JV_test_atmosphere_N2 | Perovskite_band_gap | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_thickness,0.22907612949634948,3.6334590637508972,4.598368633471309
+5,Backcontact_thickness_list | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_thickness | Stability_measured,0.22904171244155436,3.653935797465904,4.59847127690016
+5,JV_test_atmosphere_N2 | Perovskite_band_gap | Perovskite_composition_c_ions_Br; I | Perovskite_composition_inorganic | Perovskite_composition_leadfree,0.22898256143499185,3.66340901312894,4.598647680080432
+4,Backcontact_thickness_list | Cell_area_measured | Perovskite_thickness | Stability_measured,0.22816862959281003,3.635173731776309,4.60107434274856
+5,Perovskite_composition_c_ions_Br; I | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_time | Perovskite_thickness | Stabilised_performance_measured,0.22772304307645774,3.654457578980529,4.602402275866207
+5,Backcontact_thickness_list | Perovskite_composition_inorganic | Perovskite_composition_leadfree | Perovskite_thickness | Stability_measured,0.22711597362832947,3.6755265725112003,4.604210842682581
+5,ETL_thickness | Perovskite_band_gap | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_thickness,0.22709858922088133,3.6359385448450214,4.60426262343134
+4,EQE_measured | Perovskite_composition_inorganic | Perovskite_composition_leadfree | Perovskite_deposition_quenching_induced_crystallisation,0.22695303973042713,3.6844809866435035,4.604696130553029
+5,Backcontact_thickness_list | JV_test_atmosphere_N2 | Perovskite_composition_leadfree | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_quenching_induced_crystallisation,0.2262249239491858,3.6765924763938687,4.606864150733989
+5,Perovskite_band_gap | Perovskite_composition_inorganic | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_quenching_induced_crystallisation | Stabilised_performance_measured,0.22562121997888507,3.665559386865809,4.608660951898983
+4,Cell_area_measured | Perovskite_composition_c_ions_Br | Perovskite_composition_leadfree | Perovskite_thickness,0.2255376329866825,3.6311675333836857,4.608909676245653
+5,Cell_area_measured | ETL_thickness | Perovskite_composition_inorganic | Perovskite_deposition_thermal_annealing_time | Stability_measured,0.2251912634741029,3.6252003321314006,4.609940202333564
+5,Cell_area_measured | Perovskite_composition_c_ions_Br | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_thermal_annealing_temperature | Stability_measured,0.22465265092820907,3.6509471890148206,4.611542236583339
+4,JV_test_atmosphere_N2 | Perovskite_band_gap | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_time,0.22452884173772403,3.654740020338397,4.611910412550541
+5,Cell_area_measured | JV_scan_speed | Perovskite_composition_c_ions_Br | Perovskite_composition_c_ions_Br; I | Stability_measured,0.22420638044830143,3.657542930272943,4.612869189672232
+5,ETL_thickness | Perovskite_band_gap | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_quenching_induced_crystallisation | Stabilised_performance_measured,0.2239506960381944,3.6637385636094297,4.61362927685568
+5,Cell_area_measured | EQE_measured | ETL_thickness | Perovskite_composition_c_ions_Br; I | Perovskite_composition_inorganic,0.22343400029087168,3.6546328736490556,4.615164904782096
+5,ETL_thickness | JV_scan_speed | Perovskite_composition_c_ions_Br; I | Perovskite_composition_inorganic | Perovskite_composition_leadfree,0.22284967933720745,3.695151365565771,4.616900900476946
+4,Cell_area_measured | ETL_thickness | Perovskite_band_gap | Perovskite_deposition_thermal_annealing_temperature,0.22260251280455468,3.606183141108191,4.617635026577357
+4,Perovskite_composition_inorganic | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_time | Perovskite_thickness,0.22256027573396897,3.6586585599728574,4.617760466092345
+4,JV_scan_speed | Perovskite_band_gap | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_thermal_annealing_time,0.22241673389175676,3.645438191538434,4.618186744317229
+4,Backcontact_thickness_list | Cell_area_measured | ETL_thickness | Perovskite_deposition_thermal_annealing_temperature,0.22234173840165317,3.6294067112116304,4.618409443829196
+5,EQE_measured | JV_test_atmosphere_N2 | Perovskite_band_gap | Perovskite_composition_c_ions_Br; I | Perovskite_composition_leadfree,0.22229305891904116,3.696920045859131,4.618553992067866
+5,Backcontact_thickness_list | Cell_area_measured | JV_test_atmosphere_N2 | Perovskite_composition_inorganic | Stability_measured,0.22183847879847873,3.658438647082999,4.619903598206378
+5,Cell_area_measured | Perovskite_composition_leadfree | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_temperature | Stabilised_performance_measured,0.22164456972574886,3.666527701993979,4.620479176281747
+5,Backcontact_thickness_list | JV_scan_speed | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_time | Perovskite_thickness,0.22159120357932582,3.6130351225555675,4.620637569820433
+4,Cell_area_measured | JV_scan_speed | Perovskite_band_gap | Perovskite_composition_c_ions_Br,0.22155898804508967,3.6214557560259704,4.620733184597902
+4,Backcontact_thickness_list | Cell_area_measured | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_temperature,0.22121547688687715,3.632230817085356,4.621752592821466
+5,Perovskite_band_gap | Perovskite_composition_c_ions_Br | Perovskite_composition_leadfree | Perovskite_deposition_thermal_annealing_temperature | Perovskite_thickness,0.22057215956588194,3.653872073727175,4.6236611051540155
+5,Cell_area_measured | EQE_measured | JV_scan_speed | JV_test_atmosphere_N2 | Perovskite_thickness,0.2198979287580083,3.6469607422716597,4.625660482598175
+5,JV_scan_speed | JV_test_atmosphere_N2 | Perovskite_composition_c_ions_Br | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_thickness,0.21956718622691185,3.6599435742301725,4.626640957197113
+4,Cell_area_measured | EQE_measured | Perovskite_composition_c_ions_Br | Perovskite_deposition_quenching_induced_crystallisation,0.21935696707528984,3.674768758994053,4.627264036488839
+5,Perovskite_composition_c_ions_Br | Perovskite_composition_c_ions_Br; I | Perovskite_composition_leadfree | Perovskite_thickness | Stabilised_performance_measured,0.21931182373824865,3.7066516236400093,4.627397828190878
+3,Cell_area_measured | Perovskite_band_gap | Perovskite_composition_c_ions_Br; I,0.21875065982029085,3.66533439322716,4.629060631794979
+5,JV_test_atmosphere_N2 | Perovskite_band_gap | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_quenching_induced_crystallisation | Stability_measured,0.21799786619335015,3.6983568218383827,4.631290322187581
+4,Perovskite_band_gap | Perovskite_composition_c_ions_Br; I | Perovskite_thickness | Stability_measured,0.2179710066728684,3.7021703173359404,4.631369857244943
+4,Backcontact_thickness_list | Perovskite_composition_c_ions_Br; I | Perovskite_composition_leadfree | Perovskite_thickness,0.2179293351077064,3.7081770188245735,4.631493250278632
+5,JV_test_atmosphere_N2 | Perovskite_composition_inorganic | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_temperature | Perovskite_thickness,0.21766371207382929,3.6745465573788416,4.632279705328234
+4,Backcontact_thickness_list | Perovskite_band_gap | Perovskite_composition_leadfree | Perovskite_thickness,0.2170431787309628,3.6684728511341707,4.634116456534378
+5,Cell_area_measured | JV_scan_speed | JV_test_atmosphere_N2 | Perovskite_composition_c_ions_Br | Perovskite_deposition_thermal_annealing_temperature,0.21702915467547734,3.6391623984115036,4.634157958705082
+5,EQE_measured | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_time | Perovskite_thickness,0.21676197665837504,3.688041292734027,4.634948562553719
+5,Backcontact_thickness_list | EQE_measured | ETL_thickness | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_temperature,0.21637946801576635,3.6923710884902445,4.636080205442101
+5,EQE_measured | Perovskite_composition_c_ions_Br; I | Perovskite_composition_inorganic | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_quenching_induced_crystallisation,0.2162859278221111,3.7279417329494837,4.636356899889145
+3,Cell_area_measured | Perovskite_deposition_thermal_annealing_time | Perovskite_thickness,0.21619605509016715,3.626009546455669,4.636622730330718
+5,Perovskite_band_gap | Perovskite_composition_c_ions_Br | Perovskite_composition_c_ions_Br; I | Perovskite_composition_leadfree | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.2159334744716105,3.701465874398317,4.637399318227807
+5,Backcontact_thickness_list | JV_test_atmosphere_N2 | Perovskite_composition_c_ions_Br | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_time,0.21543908279889945,3.6737735760746166,4.638861139535143
+3,Backcontact_thickness_list | Perovskite_composition_leadfree | Perovskite_deposition_quenching_induced_crystallisation,0.21504745248450063,3.7085481260004087,4.640018788323023
+5,EQE_measured | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_thickness | Stability_measured,0.2148975466885933,3.7188593201255076,4.6404618294380935
+4,Perovskite_composition_c_ions_Br; I | Perovskite_composition_leadfree | Perovskite_deposition_thermal_annealing_time | Perovskite_thickness,0.2143929929717161,3.703875176827084,4.641952708876964
+5,Cell_area_measured | Perovskite_composition_c_ions_Br | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_thermal_annealing_temperature | Stabilised_performance_measured,0.21436180842678199,3.6725826451756434,4.642044838749176
+5,EQE_measured | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_temperature | Perovskite_thickness | Stabilised_performance_measured,0.21420958698920334,3.699155354728089,4.642494526991041
+4,Backcontact_thickness_list | Perovskite_composition_c_ions_Br; I | Perovskite_composition_inorganic | Perovskite_deposition_quenching_induced_crystallisation,0.2140967835482106,3.714435189142656,4.64282773961089
+5,Backcontact_thickness_list | EQE_measured | JV_scan_speed | Perovskite_deposition_thermal_annealing_temperature | Perovskite_deposition_thermal_annealing_time,0.21328033128663015,3.6522245844960066,4.645238763730177
+5,Backcontact_thickness_list | Cell_area_measured | ETL_thickness | Perovskite_composition_c_ions_Br | Stabilised_performance_measured,0.21316624372580084,3.667709692546695,4.645575570326652
+5,Backcontact_thickness_list | JV_scan_speed | Perovskite_composition_c_ions_Br; I | Perovskite_thickness | Stabilised_performance_measured,0.2128375265417468,3.6816262554803534,4.646545864907949
+5,EQE_measured | Perovskite_composition_inorganic | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_thickness | Stabilised_performance_measured,0.21193838471310955,3.717945559233985,4.6491988822376795
+4,Backcontact_thickness_list | Perovskite_composition_inorganic | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_temperature,0.21190302953403894,3.7007602227964456,4.649303170666579
+4,Backcontact_thickness_list | Cell_area_measured | JV_test_atmosphere_N2 | Perovskite_composition_leadfree,0.21163995837728955,3.6922443552201383,4.650079087563139
+4,Backcontact_thickness_list | Perovskite_band_gap | Perovskite_composition_c_ions_Br; I | Stability_measured,0.21116617884076694,3.7289226709638132,4.6514761531789475
+5,Cell_area_measured | EQE_measured | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_temperature,0.21105071976017764,3.6982628050360704,4.651816551559
+4,Cell_area_measured | Perovskite_composition_c_ions_Br; I | Perovskite_composition_leadfree | Stabilised_performance_measured,0.21091033641561863,3.7256189162393936,4.652230398516479
+4,Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_time | Perovskite_thickness | Stability_measured,0.21041400494933793,3.7072349222393672,4.653693277491043
+5,Backcontact_thickness_list | Perovskite_composition_c_ions_Br | Perovskite_composition_inorganic | Perovskite_deposition_thermal_annealing_temperature | Perovskite_thickness,0.21037129564362633,3.6851599584298325,4.6538191366897115
+5,Backcontact_thickness_list | EQE_measured | ETL_thickness | Perovskite_composition_inorganic | Perovskite_deposition_quenching_induced_crystallisation,0.21024804818050857,3.708934065979784,4.654182313091373
+5,Backcontact_thickness_list | Perovskite_composition_leadfree | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_temperature | Perovskite_thickness,0.21015160351171158,3.6807176489124718,4.6544664892605185
+4,Cell_area_measured | ETL_thickness | JV_scan_speed | Perovskite_composition_leadfree,0.20977068384073838,3.687791424376804,4.655588707232879
+5,Cell_area_measured | JV_test_atmosphere_N2 | Perovskite_composition_inorganic | Perovskite_thickness | Stability_measured,0.20940648636292614,3.6867815211341712,4.656661407470252
+4,Backcontact_thickness_list | Cell_area_measured | JV_test_atmosphere_N2 | Perovskite_deposition_thermal_annealing_temperature,0.20939767263227405,3.675233060248827,4.656687364200409
+5,JV_scan_speed | Perovskite_band_gap | Perovskite_composition_inorganic | Perovskite_deposition_thermal_annealing_time | Stabilised_performance_measured,0.20908472126539623,3.6753089174177775,4.657608922636356
+5,EQE_measured | Perovskite_composition_c_ions_Br | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_thickness | Stabilised_performance_measured,0.20853328282479655,3.719692586968596,4.659232318432869
+5,Cell_area_measured | ETL_thickness | Perovskite_composition_inorganic | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_temperature,0.2083879311660506,3.6639149969226597,4.659660129256238
+5,Cell_area_measured | ETL_thickness | Perovskite_composition_c_ions_Br | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_time,0.2078269872513191,3.6697072019572046,4.661310776851654
+4,Cell_area_measured | EQE_measured | Perovskite_deposition_thermal_annealing_temperature | Perovskite_thickness,0.2076283078064569,3.6802993088877476,4.661895275794594
+3,Perovskite_composition_leadfree | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_temperature,0.20745083993080748,3.738240529472538,4.662417310049277
+3,Perovskite_composition_inorganic | Perovskite_composition_leadfree | Perovskite_deposition_quenching_induced_crystallisation,0.20712581720700796,3.7347462937064946,4.663373235761573
+4,Backcontact_thickness_list | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_thickness,0.2071037122100925,3.7019926994079033,4.663438241745344
+4,Perovskite_band_gap | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_quenching_induced_crystallisation | Stabilised_performance_measured,0.20663630364769447,3.725468894245004,4.6648125764833015
+4,Backcontact_thickness_list | JV_scan_speed | Perovskite_composition_leadfree | Perovskite_deposition_thermal_annealing_time,0.20645952073074392,3.705407934114195,4.665332270820279
+5,Cell_area_measured | EQE_measured | JV_scan_speed | Perovskite_composition_c_ions_Br; I | Stability_measured,0.20609722212477832,3.7152055350856945,4.666397150648096
+4,ETL_thickness | Perovskite_band_gap | Perovskite_composition_c_ions_Br; I | Perovskite_composition_inorganic,0.20560346993739975,3.7328743264041053,4.667848011973441
+5,Perovskite_composition_c_ions_Br | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_quenching_induced_crystallisation | Stability_measured,0.20495500505597342,3.7436149230231726,4.669752802543493
+4,Cell_area_measured | Perovskite_band_gap | Perovskite_composition_inorganic | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.20485085001140435,3.6922173168336934,4.670058673523052
+5,Perovskite_band_gap | Perovskite_composition_c_ions_Br | Perovskite_composition_leadfree | Perovskite_deposition_thermal_annealing_temperature | Stability_measured,0.20483397952709015,3.7299543444031893,4.670108215004488
+4,Perovskite_composition_c_ions_Br; I | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_thickness | Stability_measured,0.20467136133068264,3.745421634211711,4.670585728964563
+5,Backcontact_thickness_list | JV_scan_speed | JV_test_atmosphere_N2 | Perovskite_deposition_thermal_annealing_temperature | Perovskite_deposition_thermal_annealing_time,0.20429853675855392,3.6674384837824103,4.671680311142093
+5,Cell_area_measured | JV_scan_speed | Perovskite_composition_c_ions_Br; I | Stabilised_performance_measured | Stability_measured,0.20419823121325076,3.7213121603957253,4.671974756166998
+3,Cell_area_measured | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_quenching_induced_crystallisation,0.20405113436520528,3.725066867063634,4.672406522615288
+4,Backcontact_thickness_list | Perovskite_composition_c_ions_Br | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_temperature,0.20344028723529772,3.7208930062862398,4.6741990867177
+5,JV_scan_speed | JV_test_atmosphere_N2 | Perovskite_band_gap | Perovskite_composition_c_ions_Br | Perovskite_composition_c_ions_Br; I,0.20301240577538016,3.7196887125512132,4.675454318803826
+5,ETL_thickness | Perovskite_composition_inorganic | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_temperature,0.20293671788623957,3.7317919753093296,4.675676321548579
+5,Cell_area_measured | ETL_thickness | JV_scan_speed | Perovskite_composition_c_ions_Br | Stability_measured,0.20289204733560384,3.7036166862809,4.675807341327211
+4,EQE_measured | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_thickness,0.20213701231589898,3.7555259917353854,4.678021321665623
+5,Perovskite_composition_c_ions_Br | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_thermal_annealing_temperature | Perovskite_thickness | Stability_measured,0.20122266923091836,3.7459205873765664,4.680701037214506
+4,Backcontact_thickness_list | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_thermal_annealing_temperature | Perovskite_thickness,0.20100298994867238,3.72772322257844,4.681344634821115
+4,Perovskite_band_gap | Perovskite_composition_leadfree | Perovskite_deposition_thermal_annealing_temperature | Perovskite_thickness,0.20099529702704266,3.7162575490769343,4.6813671712826155
+5,ETL_thickness | Perovskite_composition_c_ions_Br | Perovskite_composition_leadfree | Perovskite_deposition_thermal_annealing_temperature | Perovskite_thickness,0.2006284832351064,3.7285896949225528,4.682441628664953
+5,Backcontact_thickness_list | EQE_measured | Perovskite_composition_inorganic | Perovskite_composition_leadfree | Perovskite_deposition_thermal_annealing_temperature,0.19977396750629406,3.7471672178424287,4.684943688844542
+4,Cell_area_measured | EQE_measured | Perovskite_band_gap | Perovskite_composition_inorganic,0.19966610833639475,3.722633031959316,4.685259410334865
+4,Cell_area_measured | JV_test_atmosphere_N2 | Perovskite_deposition_quenching_induced_crystallisation | Stabilised_performance_measured,0.19934321372041341,3.728121111966337,4.686204448709045
+5,JV_scan_speed | JV_test_atmosphere_N2 | Perovskite_band_gap | Perovskite_composition_leadfree | Perovskite_deposition_thermal_annealing_temperature,0.19911691312619684,3.7138424285690452,4.686866664995011
+4,Cell_area_measured | Perovskite_composition_c_ions_Br | Perovskite_composition_leadfree | Stability_measured,0.198955719437649,3.759593018800338,4.687338303944032
+5,EQE_measured | Perovskite_band_gap | Perovskite_composition_leadfree | Perovskite_deposition_thermal_annealing_temperature | Stability_measured,0.1988834449307112,3.753661822484922,4.687549757562645
+3,Backcontact_thickness_list | Cell_area_measured | Perovskite_composition_leadfree,0.19871224791319841,3.735432846007901,4.688050590846246
+4,Cell_area_measured | EQE_measured | ETL_thickness | Perovskite_band_gap,0.1987076057442141,3.7176874463563463,4.688064170669146
+5,Perovskite_composition_c_ions_Br | Perovskite_composition_c_ions_Br; I | Perovskite_composition_inorganic | Perovskite_deposition_thermal_annealing_temperature | Stability_measured,0.19859371179558338,3.7618432101814148,4.688397334425388
+5,JV_scan_speed | Perovskite_composition_c_ions_Br | Perovskite_composition_leadfree | Perovskite_deposition_thermal_annealing_time | Stabilised_performance_measured,0.19811930172770853,3.7425726181266388,4.689784829044763
+4,Perovskite_band_gap | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_thermal_annealing_temperature | Stabilised_performance_measured,0.19811274292514847,3.751255848567636,4.689804008524899
+3,Cell_area_measured | JV_scan_speed | Perovskite_band_gap,0.19769782562471871,3.6867565222068723,4.6910171648348244
+3,Perovskite_band_gap | Perovskite_composition_c_ions_Br; I | Perovskite_composition_leadfree,0.19735851813026295,3.770752173057136,4.692009016208263
+3,Cell_area_measured | Perovskite_deposition_quenching_induced_crystallisation | Stability_measured,0.19732485602776528,3.7361460491983665,4.692107404614561
+3,EQE_measured | Perovskite_band_gap | Perovskite_deposition_quenching_induced_crystallisation,0.1960682521873668,3.7646969555244896,4.695778761831594
+4,Cell_area_measured | Perovskite_band_gap | Perovskite_composition_inorganic | Stabilised_performance_measured,0.19592673369940183,3.7253977879590656,4.696192049569863
+3,Perovskite_band_gap | Perovskite_composition_c_ions_Br | Perovskite_deposition_quenching_induced_crystallisation,0.19557537360322408,3.759662635979317,4.697217997291602
+5,ETL_thickness | JV_test_atmosphere_N2 | Perovskite_band_gap | Perovskite_deposition_thermal_annealing_temperature | Perovskite_thickness,0.19424170263595752,3.7196014596034197,4.701110188485222
+5,EQE_measured | Perovskite_composition_c_ions_Br | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_thermal_annealing_temperature | Perovskite_thickness,0.194195405222497,3.7542827154305494,4.701245245186772
+3,Backcontact_thickness_list | Cell_area_measured | Perovskite_composition_c_ions_Br; I,0.19419431083359262,3.752651169019449,4.701248437641196
+4,Perovskite_band_gap | Perovskite_composition_leadfree | Perovskite_deposition_thermal_annealing_time | Stability_measured,0.19406295674660434,3.7644628975488668,4.701631596410626
+5,EQE_measured | JV_scan_speed | Perovskite_composition_c_ions_Br | Perovskite_deposition_quenching_induced_crystallisation | Stability_measured,0.19386472008887023,3.761679773324729,4.702209791962696
+3,Cell_area_measured | Perovskite_composition_leadfree | Perovskite_thickness,0.19376978730938954,3.7338687344358625,4.702486656600058
+4,ETL_thickness | Perovskite_composition_inorganic | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_time,0.19347649369877207,3.768065579140786,4.703341923407198
+3,Backcontact_thickness_list | Cell_area_measured | Perovskite_deposition_thermal_annealing_temperature,0.1934519266920457,3.7300252074188167,4.703413555636065
+5,JV_scan_speed | Perovskite_composition_inorganic | Perovskite_deposition_thermal_annealing_temperature | Perovskite_thickness | Stability_measured,0.19328405407871685,3.7534899910573505,4.703903007703845
+4,ETL_thickness | Perovskite_composition_c_ions_Br; I | Perovskite_composition_inorganic | Perovskite_thickness,0.19266829034086053,3.7729740723621017,4.705697902426734
+5,Perovskite_band_gap | Perovskite_composition_c_ions_Br | Perovskite_thickness | Stabilised_performance_measured | Stability_measured,0.19241338711456502,3.758641483495107,4.7064407215783435
+2,Perovskite_deposition_quenching_induced_crystallisation | Perovskite_composition_leadfree,0.19209315085267498,3.78665750552576,4.707373763048689
+4,Cell_area_measured | Perovskite_band_gap | Perovskite_composition_c_ions_Br | Perovskite_composition_inorganic,0.19209135865710192,3.7352705162050777,4.7073789842754605
+3,Cell_area_measured | Perovskite_deposition_quenching_induced_crystallisation | Stabilised_performance_measured,0.1917377509228132,3.7524430432873332,4.708409041037947
+4,ETL_thickness | Perovskite_band_gap | Perovskite_composition_c_ions_Br; I | Stability_measured,0.1915693315701943,3.7910189694240537,4.708899566172982
+4,JV_test_atmosphere_N2 | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_thickness,0.1913554351321155,3.7713425322298257,4.7095224706901435
+5,ETL_thickness | Perovskite_band_gap | Perovskite_composition_inorganic | Perovskite_composition_leadfree | Stability_measured,0.19085455358066805,3.7762054087272414,4.710980804706348
+5,Backcontact_thickness_list | Perovskite_band_gap | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_temperature | Stabilised_performance_measured,0.19084888933247823,3.7369220657913456,4.7109972937800455
+5,Perovskite_band_gap | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Stabilised_performance_measured | Stability_measured,0.19081992950894489,3.7905434743388704,4.711081597211012
+3,Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_time | Perovskite_thickness,0.19044773379705437,3.754533947865472,4.712164942468596
+4,Backcontact_thickness_list | Perovskite_band_gap | Perovskite_composition_inorganic | Perovskite_deposition_thermal_annealing_temperature,0.18942937477556,3.7546318363879925,4.715127794733159
+5,ETL_thickness | Perovskite_composition_c_ions_Br | Perovskite_composition_c_ions_Br; I | Perovskite_composition_inorganic | Perovskite_deposition_thermal_annealing_temperature,0.18906294347591712,3.7792379676868855,4.716193448440356
+5,EQE_measured | JV_test_atmosphere_N2 | Perovskite_composition_c_ions_Br; I | Perovskite_composition_leadfree | Perovskite_deposition_thermal_annealing_time,0.189031254019409,3.8042216938130986,4.716285596250056
+4,Backcontact_thickness_list | Cell_area_measured | EQE_measured | Perovskite_composition_c_ions_Br,0.18900964898568873,3.752236361216659,4.716348419158586
+4,Perovskite_band_gap | Perovskite_deposition_thermal_annealing_temperature | Perovskite_deposition_thermal_annealing_time | Stability_measured,0.1890014442540816,3.755126395257355,4.71637227657873
+4,ETL_thickness | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_thickness,0.1889712592946019,3.759733880701562,4.716460046267345
+5,Backcontact_thickness_list | Perovskite_composition_c_ions_Br | Perovskite_composition_leadfree | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_temperature,0.18887123756956015,3.773902768521603,4.71675087068719
+4,Cell_area_measured | ETL_thickness | Perovskite_composition_leadfree | Stability_measured,0.18856621077592228,3.7915495615182975,4.717637659706773
+5,Backcontact_thickness_list | JV_test_atmosphere_N2 | Perovskite_composition_c_ions_Br; I | Perovskite_composition_leadfree | Stabilised_performance_measured,0.1884686668986877,3.8022225579715534,4.7179212089291465
+3,Backcontact_thickness_list | Perovskite_band_gap | Perovskite_composition_c_ions_Br; I,0.18785147307880878,3.7823243203351,4.719714927953376
+3,Perovskite_band_gap | Perovskite_composition_c_ions_Br; I | Perovskite_composition_inorganic,0.18751357990183903,3.7928629157994744,4.7206966410136815
+3,Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_temperature | Perovskite_thickness,0.18628169085401602,3.774002913029213,4.724274037326584
+5,EQE_measured | JV_scan_speed | Perovskite_band_gap | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_time,0.18589259101592348,3.744958611540556,4.72540341744979
+3,JV_scan_speed | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_thickness,0.18588232021670748,3.758892557009715,4.725433225258996
+4,EQE_measured | JV_scan_speed | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_temperature,0.18502131223057716,3.784887378022392,4.7279313656818465
+4,Backcontact_thickness_list | JV_scan_speed | Perovskite_deposition_thermal_annealing_temperature | Perovskite_thickness,0.1849326458176621,3.736310868852018,4.728188548672983
+5,JV_test_atmosphere_N2 | Perovskite_composition_c_ions_Br; I | Perovskite_composition_leadfree | Perovskite_deposition_thermal_annealing_time | Stabilised_performance_measured,0.18491999658280045,3.81095928318315,4.728225237503098
+4,Perovskite_composition_c_ions_Br | Perovskite_composition_leadfree | Perovskite_thickness | Stability_measured,0.1849006080405916,3.815223174032855,4.728281472994736
+5,Cell_area_measured | EQE_measured | ETL_thickness | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.18488816394105279,3.7758939216794287,4.728317566127245
+4,JV_test_atmosphere_N2 | Perovskite_composition_c_ions_Br; I | Perovskite_composition_inorganic | Perovskite_deposition_quenching_induced_crystallisation,0.18460886197375337,3.8101572630457303,4.729127587052773
+5,ETL_thickness | Perovskite_composition_c_ions_Br; I | Perovskite_composition_leadfree | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_temperature,0.1844392215703471,3.8085593452766595,4.729619503969633
+5,ETL_thickness | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_quenching_induced_crystallisation | Stabilised_performance_measured | Stability_measured,0.18439373963257033,3.804161070729276,4.729751382099798
+5,Backcontact_thickness_list | JV_scan_speed | JV_test_atmosphere_N2 | Perovskite_composition_c_ions_Br | Perovskite_composition_leadfree,0.18402205598935317,3.7852604930462124,4.730828967616843
+4,EQE_measured | JV_scan_speed | Perovskite_band_gap | Perovskite_deposition_thermal_annealing_time,0.1834016246571838,3.759533043761225,4.732627176020491
+5,EQE_measured | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_thermal_annealing_temperature | Perovskite_thickness | Stability_measured,0.18335370329375877,3.8127251460102096,4.732766039032286
+4,Backcontact_thickness_list | JV_scan_speed | Perovskite_band_gap | Stability_measured,0.18326073377464203,3.775625017415289,4.733035427666267
+5,EQE_measured | JV_scan_speed | Perovskite_composition_c_ions_Br | Perovskite_deposition_thermal_annealing_temperature | Perovskite_deposition_thermal_annealing_time,0.18275705924745322,3.7520965502514567,4.7344946093537885
+4,EQE_measured | Perovskite_band_gap | Perovskite_deposition_thermal_annealing_temperature | Perovskite_thickness,0.18265282700925967,3.775840824082156,4.73479652155838
+4,ETL_thickness | Perovskite_composition_c_ions_Br | Perovskite_composition_c_ions_Br; I | Perovskite_composition_leadfree,0.1821603614723497,3.823664976696006,4.736222704377704
+4,ETL_thickness | JV_scan_speed | Perovskite_band_gap | Perovskite_deposition_thermal_annealing_time,0.18200219763172643,3.7386161206955335,4.736680656599444
+4,JV_scan_speed | Perovskite_composition_leadfree | Perovskite_thickness | Stability_measured,0.18091892051013014,3.8265212369187145,4.739816019616992
+3,Perovskite_composition_c_ions_Br; I | Perovskite_composition_leadfree | Perovskite_thickness,0.18087099278640728,3.8340191365869476,4.73995469042464
+3,Backcontact_thickness_list | Perovskite_band_gap | Perovskite_deposition_thermal_annealing_time,0.18012348498755892,3.770070610735663,4.742116953692115
+4,Perovskite_composition_leadfree | Perovskite_deposition_thermal_annealing_temperature | Perovskite_thickness | Stability_measured,0.17981651643854257,3.8261498849715854,4.743004614519484
+4,Perovskite_band_gap | Perovskite_composition_leadfree | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_thickness,0.1797772224992663,3.775025072833043,4.7431182287941525
+5,ETL_thickness | Perovskite_band_gap | Perovskite_composition_inorganic | Perovskite_deposition_thermal_annealing_temperature | Stabilised_performance_measured,0.17970529873077778,3.789161688692054,4.743326181723859
+5,ETL_thickness | JV_test_atmosphere_N2 | Perovskite_composition_leadfree | Perovskite_deposition_thermal_annealing_temperature | Perovskite_deposition_thermal_annealing_time,0.17933133971533233,3.7860800327979547,4.744407261163627
+3,Cell_area_measured | JV_scan_speed | Perovskite_composition_leadfree,0.17868863395635337,3.790611756250816,4.746264686239757
+4,EQE_measured | JV_scan_speed | Perovskite_composition_c_ions_Br | Perovskite_deposition_quenching_induced_crystallisation,0.17845832534666095,3.8076550844031756,4.746930103185178
+4,Cell_area_measured | EQE_measured | Perovskite_deposition_thermal_annealing_time | Stability_measured,0.1777699085257135,3.782852321985532,4.74891854901528
+4,Perovskite_composition_c_ions_Br | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_temperature,0.17766887757960537,3.81007539282571,4.749210300072242
+2,Perovskite_deposition_quenching_induced_crystallisation | Perovskite_band_gap,0.17760886386402308,3.8171143998074824,4.749383595566271
+4,ETL_thickness | Perovskite_band_gap | Perovskite_thickness | Stability_measured,0.17723273264508643,3.799858222141533,4.750469567406132
+5,JV_scan_speed | Perovskite_band_gap | Perovskite_composition_c_ions_Br | Perovskite_composition_inorganic | Stability_measured,0.17667508501299456,3.812258970331967,4.752079159507134
+2,Perovskite_deposition_quenching_induced_crystallisation | Cell_area_measured,0.17655211555702033,3.7934709630978527,4.752434024737359
+3,Cell_area_measured | ETL_thickness | Perovskite_band_gap,0.17580386385481683,3.7723865104892065,4.7545927584356855
+5,EQE_measured | Perovskite_band_gap | Perovskite_composition_c_ions_Br | Perovskite_deposition_thermal_annealing_time | Stabilised_performance_measured,0.1756009544357734,3.799787763352607,4.75517799066451
+4,Cell_area_measured | ETL_thickness | Perovskite_composition_c_ions_Br | Perovskite_composition_c_ions_Br; I,0.17520243216630738,3.793338827084029,4.756327200728203
+5,Cell_area_measured | JV_test_atmosphere_N2 | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_time | Stabilised_performance_measured,0.17450351612482884,3.7862272625218547,4.75834197961285
+4,EQE_measured | Perovskite_composition_c_ions_Br; I | Perovskite_composition_leadfree | Stabilised_performance_measured,0.17423580583722065,3.8663561187755016,4.759113487343576
+4,Backcontact_thickness_list | JV_scan_speed | Perovskite_composition_c_ions_Br | Perovskite_thickness,0.17421316461312808,3.7820053095215393,4.75917873079753
+5,Backcontact_thickness_list | ETL_thickness | JV_test_atmosphere_N2 | Perovskite_band_gap | Perovskite_composition_c_ions_Br,0.17405378354404277,3.7887715752685844,4.75963798151782
+3,Backcontact_thickness_list | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_time,0.17337355217990613,3.8017387465322936,4.761597545367889
+3,Cell_area_measured | Perovskite_band_gap | Perovskite_composition_c_ions_Br,0.17285699510654562,3.787979619084157,4.763085069003029
+3,Perovskite_band_gap | Perovskite_composition_leadfree | Perovskite_thickness,0.17271522370983083,3.812430072321879,4.763493245271395
+5,Perovskite_composition_c_ions_Br | Perovskite_composition_c_ions_Br; I | Perovskite_composition_inorganic | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_temperature,0.17249745377261894,3.83080781457786,4.764120162022036
+5,Backcontact_thickness_list | EQE_measured | Perovskite_composition_c_ions_Br | Perovskite_thickness | Stability_measured,0.1724149790441858,3.8276607147473647,4.764357568981437
+5,EQE_measured | ETL_thickness | Perovskite_composition_c_ions_Br; I | Perovskite_composition_inorganic | Stabilised_performance_measured,0.1721915890277429,3.843501048931879,4.765000547090106
+5,EQE_measured | JV_scan_speed | Perovskite_band_gap | Perovskite_composition_c_ions_Br | Perovskite_composition_inorganic,0.17208910356653784,3.822311022963949,4.765295499496085
+4,ETL_thickness | Perovskite_band_gap | Perovskite_composition_leadfree | Perovskite_deposition_thermal_annealing_temperature,0.17195595184601142,3.8064260035211563,4.7656786819059525
+3,EQE_measured | Perovskite_band_gap | Perovskite_composition_c_ions_Br; I,0.17147978393078023,3.8477473106403317,4.7670487401448085
+5,JV_test_atmosphere_N2 | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_thermal_annealing_time | Perovskite_thickness | Stabilised_performance_measured,0.171353531718469,3.820758388610337,4.767411934374595
+4,Cell_area_measured | ETL_thickness | JV_test_atmosphere_N2 | Perovskite_thickness,0.1711467514889341,3.7748282233407813,4.76800672665333
+3,Perovskite_composition_c_ions_Br; I | Perovskite_composition_leadfree | Stability_measured,0.17109449855629866,3.8830155371721067,4.7681570176778445
+5,Backcontact_thickness_list | EQE_measured | ETL_thickness | Perovskite_band_gap | Stabilised_performance_measured,0.17070587921420166,3.812242715855861,4.7692746245121755
+4,Backcontact_thickness_list | ETL_thickness | JV_scan_speed | Perovskite_thickness,0.17042361060804745,3.7858277711470354,4.770086219537834
+3,Backcontact_thickness_list | JV_scan_speed | Perovskite_deposition_quenching_induced_crystallisation,0.17010145551664702,3.8001177337749836,4.771012329791576
+4,ETL_thickness | JV_scan_speed | Perovskite_band_gap | Perovskite_deposition_thermal_annealing_temperature,0.1699213037252718,3.7914622812608427,4.7715301399407295
+4,EQE_measured | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_time | Stability_measured,0.16991894766847038,3.847017356833017,4.771536911580643
+4,ETL_thickness | Perovskite_composition_leadfree | Perovskite_deposition_thermal_annealing_temperature | Perovskite_thickness,0.16984430418495244,3.826609766604779,4.771751442516704
+4,Cell_area_measured | ETL_thickness | Perovskite_composition_c_ions_Br | Perovskite_deposition_thermal_annealing_temperature,0.16956812985492553,3.773018421803791,4.772545104283374
+4,ETL_thickness | Perovskite_deposition_thermal_annealing_temperature | Perovskite_deposition_thermal_annealing_time | Perovskite_thickness,0.16946410951381996,3.779126461691427,4.7728440007024355
+3,Perovskite_band_gap | Perovskite_composition_c_ions_Br | Perovskite_composition_c_ions_Br; I,0.16914395960368966,3.8430762601663644,4.773763815469185
+4,JV_scan_speed | Perovskite_composition_c_ions_Br | Perovskite_composition_c_ions_Br; I | Perovskite_thickness,0.16911672927587795,3.8269778531039913,4.7738420420705525
+4,ETL_thickness | JV_scan_speed | Perovskite_composition_c_ions_Br; I | Perovskite_thickness,0.1680614492689826,3.824127558299694,4.776872637152154
+4,JV_test_atmosphere_N2 | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_temperature,0.16803851708014395,3.8489709080384094,4.776938473379119
+5,EQE_measured | ETL_thickness | Perovskite_composition_c_ions_Br | Perovskite_deposition_thermal_annealing_time | Perovskite_thickness,0.16803206545707117,3.7972493379196397,4.776956995238217
+4,JV_scan_speed | Perovskite_band_gap | Perovskite_composition_c_ions_Br | Perovskite_deposition_thermal_annealing_temperature,0.1679305688140329,3.799592812689062,4.777248370838438
+5,Cell_area_measured | JV_test_atmosphere_N2 | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_temperature | Stability_measured,0.16791949381733662,3.8043425729689044,4.77728016375853
+5,Backcontact_thickness_list | EQE_measured | ETL_thickness | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_thermal_annealing_temperature,0.16772060426040158,3.836157608392811,4.777851078686201
+4,Perovskite_band_gap | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_temperature | Perovskite_deposition_thermal_annealing_time,0.16765790900758715,3.794499328113839,4.778031032041899
+3,Backcontact_thickness_list | Cell_area_measured | Perovskite_composition_c_ions_Br,0.16741177291600984,3.810596992043421,4.778737447688555
+4,ETL_thickness | Perovskite_band_gap | Perovskite_composition_inorganic | Perovskite_deposition_thermal_annealing_time,0.16723666083179578,3.8173669170311997,4.779239959405351
+4,EQE_measured | Perovskite_composition_c_ions_Br | Perovskite_composition_leadfree | Perovskite_deposition_thermal_annealing_time,0.1672258477427172,3.8552344264924687,4.779270987536168
+5,ETL_thickness | Perovskite_band_gap | Perovskite_composition_leadfree | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Stabilised_performance_measured,0.1666938181948675,3.8202266010399577,4.780797396222862
+4,Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_temperature | Stabilised_performance_measured,0.16668958418775248,3.851206549091929,4.780809541761274
+5,EQE_measured | JV_scan_speed | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_thermal_annealing_time | Stability_measured,0.16656778945159922,3.8415364958776603,4.781158905066448
+5,Backcontact_thickness_list | EQE_measured | ETL_thickness | Perovskite_composition_leadfree | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.1664606338336423,3.8492031781784712,4.78146625554073
+3,JV_scan_speed | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_temperature,0.16644733252191135,3.8260924623822294,4.7815044058201615
+4,Backcontact_thickness_list | Perovskite_deposition_thermal_annealing_temperature | Perovskite_deposition_thermal_annealing_time | Stabilised_performance_measured,0.16630698558044854,3.8159266199542325,4.781906924641212
+3,Cell_area_measured | Perovskite_composition_c_ions_Br | Perovskite_thickness,0.1660642601050819,3.7987883420404303,4.782602987905131
+4,Perovskite_band_gap | Perovskite_composition_c_ions_Br | Perovskite_deposition_thermal_annealing_time | Stability_measured,0.16568758736248446,3.8378486646825594,4.783682970882791
+3,Cell_area_measured | EQE_measured | Perovskite_deposition_thermal_annealing_time,0.16554322523914877,3.8155119350380007,4.784096816314113
+5,Backcontact_thickness_list | ETL_thickness | Perovskite_composition_c_ions_Br | Perovskite_deposition_thermal_annealing_time | Stability_measured,0.1654931673386426,3.835702003953442,4.7842403098168615
+4,EQE_measured | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_thermal_annealing_temperature | Perovskite_thickness,0.16481771141474044,3.8520402459293206,4.7861761177024125
+4,JV_scan_speed | Perovskite_composition_c_ions_Br; I | Perovskite_composition_inorganic | Stabilised_performance_measured,0.16447402535821842,3.859711504469989,4.787160796631425
+4,JV_test_atmosphere_N2 | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_temperature | Stability_measured,0.1634614104734139,3.861824299447125,4.790060815642861
+5,JV_scan_speed | JV_test_atmosphere_N2 | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_quenching_induced_crystallisation | Stabilised_performance_measured,0.16330471066912167,3.8470081418304516,4.7905094300011895
+5,Perovskite_band_gap | Perovskite_composition_c_ions_Br | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_temperature | Stability_measured,0.16319906796330153,3.840383410708109,4.790811849777646
+4,Backcontact_thickness_list | Perovskite_band_gap | Stabilised_performance_measured | Stability_measured,0.1631463260023096,3.8596603466388713,4.790962825249063
+5,Perovskite_composition_inorganic | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_temperature | Perovskite_thickness | Stability_measured,0.16304488889283864,3.8481847538666667,4.791253178694244
+4,EQE_measured | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_time,0.16269505472643375,3.8696292047860825,4.792254408584382
+3,JV_scan_speed | Perovskite_composition_inorganic | Perovskite_deposition_quenching_induced_crystallisation,0.1626927556764457,3.854155571826716,4.792260987803184
+5,Cell_area_measured | JV_scan_speed | JV_test_atmosphere_N2 | Stabilised_performance_measured | Stability_measured,0.16266868964376446,3.8277932203532488,4.792329857314124
+3,Perovskite_composition_inorganic | Perovskite_deposition_quenching_induced_crystallisation | Stabilised_performance_measured,0.1619969105055339,3.8635083577729024,4.794251881322705
+4,JV_test_atmosphere_N2 | Perovskite_composition_inorganic | Perovskite_deposition_quenching_induced_crystallisation | Stabilised_performance_measured,0.16178090250593824,3.8641812590377764,4.794869737059058
+4,JV_scan_speed | Perovskite_composition_c_ions_Br | Perovskite_composition_leadfree | Perovskite_deposition_thermal_annealing_temperature,0.161779862688481,3.846347999256762,4.794872711095159
+4,EQE_measured | Perovskite_composition_c_ions_Br | Perovskite_composition_c_ions_Br; I | Perovskite_thickness,0.16151245080146626,3.865534351167126,4.795637488541717
+4,Backcontact_thickness_list | Perovskite_composition_c_ions_Br | Perovskite_thickness | Stability_measured,0.16118347485697737,3.856941985510875,4.796578167183026
+3,Perovskite_composition_c_ions_Br; I | Perovskite_composition_leadfree | Stabilised_performance_measured,0.16117812138347043,3.8983885959640796,4.796593473458238
+5,JV_test_atmosphere_N2 | Perovskite_composition_inorganic | Perovskite_deposition_thermal_annealing_temperature | Perovskite_thickness | Stability_measured,0.16079229420631702,3.862918294979317,4.797696474826883
+4,ETL_thickness | Perovskite_band_gap | Perovskite_composition_c_ions_Br | Perovskite_deposition_thermal_annealing_time,0.16066596302460467,3.82871852078567,4.7980575748577445
+5,Perovskite_composition_c_ions_Br | Perovskite_composition_inorganic | Perovskite_composition_leadfree | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Stabilised_performance_measured,0.16036753865536102,3.871997504509438,4.79891047131557
+5,JV_scan_speed | Perovskite_composition_leadfree | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_temperature | Stabilised_performance_measured,0.16034934563173764,3.8570972010520115,4.798962462051196
+3,Cell_area_measured | Perovskite_composition_inorganic | Perovskite_deposition_thermal_annealing_temperature,0.16022896472837844,3.8230391328089413,4.799306463886054
+3,JV_scan_speed | Perovskite_composition_c_ions_Br | Perovskite_deposition_quenching_induced_crystallisation,0.16020311859502234,3.8541543232369273,4.799380318874643
+5,EQE_measured | JV_scan_speed | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_thermal_annealing_time | Stabilised_performance_measured,0.1600245010741157,3.859544629579381,4.79989068504513
+3,Perovskite_composition_leadfree | Perovskite_deposition_thermal_annealing_time | Perovskite_thickness,0.15985322043318273,3.852584171619582,4.800380036489259
+3,ETL_thickness | Perovskite_composition_inorganic | Perovskite_deposition_quenching_induced_crystallisation,0.15963219564200026,3.865535077981692,4.801011434030913
+3,Backcontact_thickness_list | Cell_area_measured | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.1596231669986482,3.818521293803146,4.801037224228561
+4,Cell_area_measured | ETL_thickness | Perovskite_composition_inorganic | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.15942931164275176,3.8369497093572766,4.8015909360137545
+3,ETL_thickness | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_time,0.15930001529664983,3.8653586398065563,4.8019602114953015
+3,Perovskite_composition_c_ions_Br; I | Perovskite_deposition_quenching_induced_crystallisation | Stability_measured,0.15921986774594032,3.8785814797083273,4.802189101815438
+3,Backcontact_thickness_list | ETL_thickness | Perovskite_deposition_quenching_induced_crystallisation,0.1591628782050667,3.8516042959926122,4.802351849425797
+3,ETL_thickness | Perovskite_composition_c_ions_Br; I | Perovskite_composition_leadfree,0.15748139930801108,3.905755729856438,4.807151245203976
+5,ETL_thickness | JV_scan_speed | JV_test_atmosphere_N2 | Perovskite_deposition_thermal_annealing_temperature | Perovskite_thickness,0.15718188841442438,3.820868968870109,4.808005627663199
+3,Backcontact_thickness_list | Perovskite_composition_c_ions_Br; I | Perovskite_thickness,0.15716688173442162,3.87475891147796,4.808048431608524
+3,ETL_thickness | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_quenching_induced_crystallisation,0.1571504261849206,3.8786061066230304,4.808095367764138
+5,EQE_measured | Perovskite_band_gap | Perovskite_composition_c_ions_Br | Stabilised_performance_measured | Stability_measured,0.15654634617740748,3.876528935995009,4.809818067843108
+3,Perovskite_composition_c_ions_Br; I | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_quenching_induced_crystallisation,0.15653715349742325,3.890074984301082,4.809844278529141
+3,JV_scan_speed | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_quenching_induced_crystallisation,0.15641143646653255,3.8681254202023316,4.8102027156637845
+3,Perovskite_band_gap | Perovskite_thickness | Stability_measured,0.15607836349211435,3.875027482194116,4.811152224987979
+4,ETL_thickness | Perovskite_band_gap | Perovskite_composition_inorganic | Perovskite_deposition_thermal_annealing_temperature,0.15596420690316692,3.8546217111822525,4.8114776142961295
+2,Perovskite_deposition_quenching_induced_crystallisation | Perovskite_thickness,0.15592047796618358,3.8653307970527813,4.811602252420485
+3,Perovskite_composition_c_ions_Br; I | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_time,0.15496471065016126,3.878018707559936,4.8143256161366645
+3,Backcontact_thickness_list | Perovskite_composition_c_ions_Br | Perovskite_composition_leadfree,0.15472378351910954,3.8881151896136816,4.81501187090641
+4,EQE_measured | JV_scan_speed | Perovskite_composition_inorganic | Perovskite_composition_leadfree,0.15466260649603836,3.8985965322377822,4.815186111442763
+5,JV_scan_speed | JV_test_atmosphere_N2 | Perovskite_composition_c_ions_Br | Perovskite_composition_inorganic | Perovskite_thickness,0.1543023848733982,3.8687534961823267,4.816211944100725
+4,JV_test_atmosphere_N2 | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_thermal_annealing_temperature | Perovskite_thickness,0.15400672260782355,3.8785119229409757,4.81705376254346
+4,Cell_area_measured | EQE_measured | Perovskite_composition_inorganic | Stability_measured,0.15387100763387862,3.8801744641613816,4.817440125016313
+5,Backcontact_thickness_list | JV_scan_speed | JV_test_atmosphere_N2 | Perovskite_composition_c_ions_Br; I | Stability_measured,0.15363196228520015,3.8775240273994322,4.81812057997103
+5,Perovskite_composition_inorganic | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_temperature | Perovskite_thickness | Stabilised_performance_measured,0.1535603170500287,3.861215538232079,4.818324503123693
+4,ETL_thickness | JV_scan_speed | Perovskite_composition_leadfree | Perovskite_deposition_thermal_annealing_temperature,0.15340949089075717,3.8722417224064265,4.818753769982676
+4,Backcontact_thickness_list | EQE_measured | Perovskite_composition_c_ions_Br | Perovskite_thickness,0.15318348207739296,3.867814470337816,4.819396942882212
+4,Backcontact_thickness_list | Perovskite_composition_inorganic | Perovskite_deposition_thermal_annealing_time | Stabilised_performance_measured,0.15279603803588027,3.8771139958577607,4.820499326372704
+4,Backcontact_thickness_list | EQE_measured | Perovskite_composition_leadfree | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.15249243111669275,3.9005374834362994,4.821362994343514
+4,Cell_area_measured | Perovskite_deposition_thermal_annealing_temperature | Stabilised_performance_measured | Stability_measured,0.15139588271040982,3.8703354962717325,4.8244810484504
+3,EQE_measured | Perovskite_composition_c_ions_Br; I | Perovskite_composition_inorganic,0.15122913518871517,3.908892145275409,4.824955021370716
+3,Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_time | Stabilised_performance_measured,0.15109482094526183,3.8916864852728588,4.825336770187811
+4,JV_test_atmosphere_N2 | Perovskite_composition_c_ions_Br | Perovskite_composition_leadfree | Stability_measured,0.15086726074779366,3.920464143274303,4.825983474341722
+4,EQE_measured | ETL_thickness | JV_scan_speed | Perovskite_band_gap,0.1504998267354133,3.865647700274634,4.827027503504968
+5,JV_test_atmosphere_N2 | Perovskite_composition_c_ions_Br; I | Perovskite_thickness | Stabilised_performance_measured | Stability_measured,0.15019893306862808,3.9110327875370405,4.827882296394605
+3,JV_scan_speed | Perovskite_composition_leadfree | Perovskite_thickness,0.15016199450256862,3.8919066954537707,4.827987222781602
+5,ETL_thickness | JV_test_atmosphere_N2 | Perovskite_composition_leadfree | Perovskite_deposition_thermal_annealing_time | Stabilised_performance_measured,0.15005264048937805,3.8974596905075063,4.828297836564548
+4,EQE_measured | Perovskite_band_gap | Perovskite_composition_inorganic | Stability_measured,0.14997836223772876,3.909495382355973,4.828508808269205
+4,Backcontact_thickness_list | ETL_thickness | Perovskite_composition_inorganic | Perovskite_deposition_thermal_annealing_temperature,0.14990622343343063,3.880515356006749,4.82871369450182
+2,Perovskite_band_gap | Perovskite_composition_c_ions_Br; I,0.14989362166962972,3.9077578709554017,4.8287494847202685
+5,Cell_area_measured | EQE_measured | JV_test_atmosphere_N2 | Perovskite_composition_c_ions_Br | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.14985115939493776,3.8808441929952413,4.82887007970222
+2,Cell_area_measured | Perovskite_band_gap,0.14937839025464017,3.8577971547971317,4.830212564305284
+5,Backcontact_thickness_list | ETL_thickness | Perovskite_composition_c_ions_Br | Perovskite_composition_inorganic | Stabilised_performance_measured,0.14933624933330336,3.8924096222317153,4.8303322103878745
+3,Cell_area_measured | EQE_measured | Perovskite_thickness,0.1493173994946848,3.866259925943033,4.830385727701957
+3,Backcontact_thickness_list | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_quenching_induced_crystallisation,0.14918441900540835,3.8887004575098976,4.830763260965118
+3,Backcontact_thickness_list | Perovskite_band_gap | Stability_measured,0.14916258889820466,3.900031246003235,4.830825234091717
+5,Cell_area_measured | EQE_measured | Perovskite_composition_c_ions_Br | Stabilised_performance_measured | Stability_measured,0.14905812048441125,3.8897026586069288,4.831121796720896
+3,Backcontact_thickness_list | Cell_area_measured | Stabilised_performance_measured,0.14905343175310226,3.8666113374492563,4.831135106561067
+4,EQE_measured | Perovskite_composition_inorganic | Perovskite_deposition_thermal_annealing_temperature | Perovskite_deposition_thermal_annealing_time,0.14841565313033667,3.874954494966095,4.8329452187891935
+3,ETL_thickness | Perovskite_deposition_quenching_induced_crystallisation | Stability_measured,0.14839784843145665,3.89957233602723,4.8329957414913025
+4,JV_scan_speed | JV_test_atmosphere_N2 | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_quenching_induced_crystallisation,0.14838014013580003,3.8889197024639244,4.833045990115283
+3,Backcontact_thickness_list | Perovskite_band_gap | Perovskite_composition_inorganic,0.1478950041554301,3.8866208023471436,4.834422396884539
+4,Backcontact_thickness_list | JV_scan_speed | Perovskite_composition_inorganic | Stabilised_performance_measured,0.14728665077273706,3.8948163654130323,4.836147837110682
+3,Cell_area_measured | JV_scan_speed | Perovskite_composition_c_ions_Br,0.1472635562177419,3.8673460796150136,4.836213326835962
+3,Perovskite_band_gap | Perovskite_thickness | Stabilised_performance_measured,0.1469826460690018,3.8827745230955824,4.837009838788718
+4,Perovskite_composition_c_ions_Br; I | Perovskite_composition_inorganic | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Stabilised_performance_measured,0.1469087218824966,3.9176890185511217,4.837219426711614
+3,Cell_area_measured | ETL_thickness | Perovskite_composition_c_ions_Br; I,0.14690571775495953,3.880324898640835,4.837227943743532
+4,Backcontact_thickness_list | JV_scan_speed | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_time,0.1466835570167293,3.8620406162693284,4.837857752311307
+3,EQE_measured | ETL_thickness | Perovskite_deposition_quenching_induced_crystallisation,0.14637551532780568,3.9055894331889225,4.838730891119075
+4,JV_test_atmosphere_N2 | Perovskite_composition_leadfree | Perovskite_thickness | Stabilised_performance_measured,0.14634850327154547,3.917832968558987,4.838807448808917
+4,Backcontact_thickness_list | JV_test_atmosphere_N2 | Perovskite_band_gap | Stabilised_performance_measured,0.14608013045207202,3.8834077303972716,4.839568006457103
+3,Perovskite_band_gap | Perovskite_composition_inorganic | Perovskite_composition_leadfree,0.14537830915748684,3.9018902553995027,4.841556374691844
+2,Perovskite_composition_leadfree | Perovskite_composition_c_ions_Br; I,0.1453298346874573,3.9445475704169555,4.841693680211958
+5,Backcontact_thickness_list | JV_scan_speed | JV_test_atmosphere_N2 | Perovskite_deposition_thermal_annealing_temperature | Stability_measured,0.14512527381790774,3.885066709643126,4.842273062676426
+4,EQE_measured | Perovskite_composition_c_ions_Br | Perovskite_deposition_thermal_annealing_time | Perovskite_thickness,0.14494515352626747,3.877233766353949,4.842783164140505
+4,Backcontact_thickness_list | JV_test_atmosphere_N2 | Perovskite_composition_leadfree | Stabilised_performance_measured,0.14462707226870986,3.9254039985940348,4.843683840473999
+5,JV_test_atmosphere_N2 | Perovskite_composition_inorganic | Perovskite_thickness | Stabilised_performance_measured | Stability_measured,0.1445878243827241,3.922917976706211,4.8437949628653705
+5,EQE_measured | ETL_thickness | Perovskite_composition_c_ions_Br | Perovskite_thickness | Stability_measured,0.14400738154931658,3.9000230913485074,4.845438070929841
+4,Perovskite_band_gap | Perovskite_composition_inorganic | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Stability_measured,0.14381445525017067,3.9191878469861514,4.845984080175606
+4,ETL_thickness | Perovskite_composition_c_ions_Br | Perovskite_composition_inorganic | Perovskite_composition_leadfree,0.14364182467733322,3.922058199234895,4.846472597441793
+4,EQE_measured | Perovskite_composition_c_ions_Br | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_thermal_annealing_temperature,0.14323398992425018,3.910788171079685,4.847626509868431
+2,Perovskite_deposition_quenching_induced_crystallisation | Perovskite_composition_inorganic,0.14316773353690937,3.91669560263157,4.847813947282265
+3,Cell_area_measured | JV_test_atmosphere_N2 | Perovskite_thickness,0.14305826267343502,3.869493138259133,4.848123621328132
+3,Perovskite_composition_c_ions_Br | Perovskite_composition_c_ions_Br; I | Perovskite_thickness,0.14286091680739166,3.9176990681011024,4.848681828517894
+3,Perovskite_band_gap | Perovskite_deposition_thermal_annealing_time | Stability_measured,0.1425241280685745,3.9054744009578806,4.849634311663817
+3,Backcontact_thickness_list | JV_scan_speed | Perovskite_thickness,0.14240137401580277,3.878755015873757,4.849981429863514
+3,Cell_area_measured | JV_test_atmosphere_N2 | Perovskite_composition_leadfree,0.1422833811455666,3.904498415298569,4.85031506119744
+4,Perovskite_composition_inorganic | Perovskite_deposition_thermal_annealing_temperature | Perovskite_deposition_thermal_annealing_time | Stabilised_performance_measured,0.14222734473789267,3.8894501910366506,4.850473499186786
+3,Perovskite_composition_leadfree | Perovskite_thickness | Stabilised_performance_measured,0.14180843490337436,3.9317937576750905,4.851657765797659
+2,Cell_area_measured | Perovskite_deposition_thermal_annealing_time,0.14168729739245278,3.881941262908947,4.852000170122767
+2,Perovskite_deposition_quenching_induced_crystallisation | Perovskite_composition_c_ions_Br,0.14165488162314444,3.9142397869983783,4.852091791645286
+4,Cell_area_measured | EQE_measured | Perovskite_composition_c_ions_Br | Stability_measured,0.14116866851412968,3.911528957842491,4.853465840726298
+4,Perovskite_composition_c_ions_Br | Perovskite_composition_leadfree | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_time,0.1407895526783135,3.922297546665881,4.8545369606741255
+3,Perovskite_composition_c_ions_Br | Perovskite_composition_leadfree | Perovskite_deposition_thermal_annealing_time,0.14036007530677908,3.9245630533548956,4.8557500821560735
+5,ETL_thickness | JV_test_atmosphere_N2 | Perovskite_composition_c_ions_Br | Perovskite_deposition_thermal_annealing_temperature | Perovskite_deposition_thermal_annealing_time,0.14022424608257367,3.8690244096568356,4.856133688533697
+4,ETL_thickness | Perovskite_composition_c_ions_Br | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_thermal_annealing_temperature,0.14008983021394616,3.9112771103063717,4.856513273509673
+3,JV_test_atmosphere_N2 | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_quenching_induced_crystallisation,0.13999614976460062,3.9286596076626172,4.856777805766232
+2,Perovskite_deposition_quenching_induced_crystallisation | Perovskite_composition_c_ions_Br; I,0.13959174990636558,3.9292777227031337,4.857919573571897
+4,JV_scan_speed | Perovskite_composition_leadfree | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_temperature,0.13953014721558876,3.912201507754352,4.858093476809645
+3,Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_quenching_induced_crystallisation | Stabilised_performance_measured,0.1393348004599141,3.9272834882935075,4.858644895863132
+3,Cell_area_measured | Perovskite_composition_c_ions_Br; I | Stabilised_performance_measured,0.13915828643972494,3.915734359803192,4.859143100609817
+4,Perovskite_composition_inorganic | Perovskite_thickness | Stabilised_performance_measured | Stability_measured,0.13912209554408894,3.9353755763383487,4.859245241857035
+2,Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_temperature,0.1389598689972582,3.927729812834005,4.859703066037353
+3,ETL_thickness | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_quenching_induced_crystallisation,0.13877783611161643,3.9215663750971443,4.860216734907583
+3,Backcontact_thickness_list | JV_test_atmosphere_N2 | Perovskite_deposition_quenching_induced_crystallisation,0.13862897018588072,3.910900527601674,4.860636771357322
+4,JV_scan_speed | JV_test_atmosphere_N2 | Perovskite_composition_leadfree | Stability_measured,0.138377571706642,3.961437001424638,4.861346028752537
+3,Cell_area_measured | Perovskite_deposition_thermal_annealing_temperature | Stability_measured,0.13782575825265853,3.903304903622743,4.8629024684943545
+4,Backcontact_thickness_list | JV_test_atmosphere_N2 | Perovskite_composition_inorganic | Perovskite_deposition_thermal_annealing_time,0.13756057761390172,3.9148552807737995,4.863650257269779
+4,EQE_measured | JV_test_atmosphere_N2 | Perovskite_composition_c_ions_Br; I | Perovskite_thickness,0.13754122351596643,3.943569135662198,4.863704829818795
+3,Perovskite_composition_c_ions_Br; I | Perovskite_deposition_thermal_annealing_temperature | Perovskite_deposition_thermal_annealing_time,0.13751877694629866,3.908186844532489,4.86376812141136
+4,Perovskite_composition_c_ions_Br | Perovskite_deposition_thermal_annealing_temperature | Perovskite_deposition_thermal_annealing_time | Stability_measured,0.1373685910282163,3.9060885070311375,4.864191572765604
+3,JV_test_atmosphere_N2 | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_time,0.13705867778673286,3.931667731383251,4.865065261104679
+3,Perovskite_band_gap | Perovskite_composition_inorganic | Stability_measured,0.13694383941614796,3.9485164455796324,4.865388966533258
+2,Perovskite_deposition_quenching_induced_crystallisation | Backcontact_thickness_list,0.13685978893574313,3.9174567058476666,4.865625873667946
+5,JV_scan_speed | JV_test_atmosphere_N2 | Perovskite_composition_c_ions_Br | Perovskite_deposition_thermal_annealing_time | Stability_measured,0.13682231492782226,3.9092424457041983,4.865731495281434
+3,Perovskite_composition_inorganic | Perovskite_composition_leadfree | Stabilised_performance_measured,0.13660715766404163,3.948678346248579,4.866337878105706
+4,JV_test_atmosphere_N2 | Perovskite_composition_inorganic | Perovskite_composition_leadfree | Stabilised_performance_measured,0.13643042229902425,3.948446315007776,4.8668359190614225
+4,Backcontact_thickness_list | EQE_measured | JV_scan_speed | Perovskite_deposition_thermal_annealing_temperature,0.13625473828272294,3.9146258070173725,4.867330946804987
+5,EQE_measured | JV_test_atmosphere_N2 | Perovskite_composition_leadfree | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_temperature,0.13624324424658552,3.948378619385158,4.867363331985062
+3,JV_test_atmosphere_N2 | Perovskite_band_gap | Perovskite_thickness,0.1359306554492553,3.9114154053311436,4.868243988264036
+3,JV_scan_speed | Perovskite_band_gap | Perovskite_composition_inorganic,0.13543277426760147,3.9184343667096297,4.86964633984194
+3,Perovskite_composition_c_ions_Br; I | Perovskite_thickness | Stability_measured,0.13526851032738485,3.9591467917751637,4.870108923479358
+2,Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_time,0.13507010756395743,3.9350145287673395,4.870667586869756
+3,Perovskite_composition_inorganic | Perovskite_composition_leadfree | Perovskite_deposition_thermal_annealing_time,0.13490183571472059,3.9413893695096487,4.871141357281586
+4,EQE_measured | JV_test_atmosphere_N2 | Perovskite_composition_leadfree | Stability_measured,0.13466609851059141,3.981795687961641,4.871804999325146
+4,EQE_measured | JV_test_atmosphere_N2 | Perovskite_band_gap | Perovskite_deposition_thermal_annealing_temperature,0.13464892587776123,3.926198274527497,4.8718533397999995
+3,JV_scan_speed | JV_test_atmosphere_N2 | Perovskite_deposition_quenching_induced_crystallisation,0.13440774022452506,3.924160925139626,4.872532219911782
+3,Perovskite_composition_inorganic | Perovskite_composition_leadfree | Perovskite_deposition_thermal_annealing_temperature,0.13394129151188228,3.945259904373496,4.87384489354616
+2,Cell_area_measured | Perovskite_composition_leadfree,0.13390597526380954,3.9362421103110146,4.873944265655079
+4,EQE_measured | Perovskite_band_gap | Perovskite_composition_inorganic | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.13368809305676932,3.9404547625265653,4.874557293180711
+2,Perovskite_deposition_quenching_induced_crystallisation | Stability_measured,0.13366907046869225,3.939955662727011,4.874610810964365
+4,JV_scan_speed | JV_test_atmosphere_N2 | Perovskite_composition_inorganic | Perovskite_composition_leadfree,0.13335658426320163,3.9498958846754526,4.875489869560326
+3,JV_scan_speed | Perovskite_composition_leadfree | Perovskite_deposition_thermal_annealing_temperature,0.13203153482209695,3.9434941539511055,4.879215622014679
+4,Perovskite_composition_c_ions_Br | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_thermal_annealing_time | Stabilised_performance_measured,0.13174348827568527,3.9367934341518893,4.880025170219129
+2,Cell_area_measured | Backcontact_thickness_list,0.13173559126622025,3.917146138989641,4.8800473626915215
+3,Backcontact_thickness_list | Perovskite_composition_leadfree | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.13170964316659783,3.9501826665535704,4.880120282304373
+3,Cell_area_measured | EQE_measured | Perovskite_composition_inorganic,0.13161765429176853,3.9389196347438302,4.880378781596144
+3,JV_scan_speed | Perovskite_composition_c_ions_Br | Perovskite_composition_leadfree,0.1316128555930276,3.950388008643529,4.880392266114384
+4,EQE_measured | JV_test_atmosphere_N2 | Perovskite_band_gap | Perovskite_composition_inorganic,0.131529450542627,3.9525504196248087,4.880626631392683
+2,Cell_area_measured | Perovskite_thickness,0.13129774282878193,3.9080839053672336,4.881277662921682
+3,Cell_area_measured | Perovskite_composition_inorganic | Stabilised_performance_measured,0.130884145676193,3.93811498810146,4.882439535289779
+4,Cell_area_measured | JV_test_atmosphere_N2 | Perovskite_composition_c_ions_Br | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.1308831148668852,3.9254665672784275,4.882442430682033
+5,EQE_measured | Perovskite_composition_c_ions_Br | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_thickness | Stability_measured,0.13080512697675128,3.938597671371052,4.882661482255469
+2,Perovskite_deposition_quenching_induced_crystallisation | EQE_measured,0.13057411550413822,3.952671417638535,4.883310287211973
+2,Perovskite_band_gap | Perovskite_thickness,0.12965700713504758,3.931785231622401,4.8858851727771295
+3,Backcontact_thickness_list | Perovskite_composition_inorganic | Perovskite_deposition_thermal_annealing_temperature,0.12874935976711255,3.9500761934485342,4.8884321601553555
+3,JV_scan_speed | Perovskite_deposition_thermal_annealing_temperature | Perovskite_deposition_thermal_annealing_time,0.1286318491990036,3.9086815823275685,4.8887618144738125
+4,Backcontact_thickness_list | JV_scan_speed | Perovskite_composition_c_ions_Br | Stabilised_performance_measured,0.1285273725827728,3.932923955232235,4.889054885767717
+2,Perovskite_deposition_quenching_induced_crystallisation | JV_scan_speed,0.12846681216040778,3.9448492677152647,4.889224758048185
+4,Cell_area_measured | EQE_measured | ETL_thickness | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.12843781537039767,3.931173524496537,4.889306092096271
+4,EQE_measured | JV_test_atmosphere_N2 | Perovskite_band_gap | Perovskite_composition_c_ions_Br,0.128011830841532,3.9512860907975917,4.890500794182726
+4,Backcontact_thickness_list | EQE_measured | ETL_thickness | Perovskite_composition_c_ions_Br; I,0.12793689706827716,3.9610516079246176,4.8907109207750095
+3,JV_scan_speed | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_thermal_annealing_time,0.12793156476353973,3.943389023143831,4.890725873088127
+4,JV_test_atmosphere_N2 | Perovskite_composition_leadfree | Perovskite_deposition_thermal_annealing_temperature | Stabilised_performance_measured,0.12791731227018732,3.9741252045530513,4.890765838273414
+2,Perovskite_composition_c_ions_Br; I | Perovskite_composition_inorganic,0.12776853852112358,3.9775748176780237,4.891182992833578
+5,Backcontact_thickness_list | EQE_measured | ETL_thickness | JV_scan_speed | Stability_measured,0.12764039824421125,3.940784463251859,4.89154226359663
+2,Perovskite_composition_leadfree | Perovskite_band_gap,0.12754330684429094,3.9568857904670796,4.891814464115424
+3,ETL_thickness | Perovskite_composition_c_ions_Br | Perovskite_composition_leadfree,0.12745774623990835,3.9652926176271426,4.892054324927023
+2,Perovskite_deposition_quenching_induced_crystallisation | ETL_thickness,0.1274443340102388,3.954024079390868,4.89209192373885
+2,Perovskite_deposition_quenching_induced_crystallisation | Stabilised_performance_measured,0.1273225200112933,3.956075907962432,4.892433394493344
+3,Perovskite_band_gap | Perovskite_deposition_thermal_annealing_temperature | Stabilised_performance_measured,0.12727000777794617,3.9476753904316695,4.8925805901900405
+3,EQE_measured | JV_scan_speed | Perovskite_composition_leadfree,0.12725964038163406,3.9881861471550244,4.892609650249728
+3,Backcontact_thickness_list | JV_test_atmosphere_N2 | Perovskite_composition_leadfree,0.12648702460911576,3.976793450547583,4.894774825209142
+3,Perovskite_band_gap | Perovskite_composition_inorganic | Stabilised_performance_measured,0.12584686045786997,3.9660720880989078,4.896568093066637
+5,ETL_thickness | JV_test_atmosphere_N2 | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_time | Perovskite_thickness,0.12580474459861202,3.920540314030334,4.896686047621438
+3,ETL_thickness | JV_scan_speed | Perovskite_band_gap,0.1257276579494193,3.9253709711631966,4.896901938062547
+3,Perovskite_composition_inorganic | Perovskite_thickness | Stability_measured,0.12548092484033357,3.976381745825349,4.897592879860007
+4,Backcontact_thickness_list | JV_test_atmosphere_N2 | Perovskite_composition_c_ions_Br | Perovskite_deposition_thermal_annealing_time,0.125397375205465,3.9436604213799566,4.897826826914798
+5,Backcontact_thickness_list | EQE_measured | Perovskite_composition_c_ions_Br | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Stability_measured,0.12537043967315298,3.965372081045265,4.897902246627298
+3,ETL_thickness | Perovskite_band_gap | Perovskite_deposition_thermal_annealing_temperature,0.12521782683069138,3.941071214027656,4.898329541915446
+2,Perovskite_composition_leadfree | Backcontact_thickness_list,0.12497921276553758,3.983018663783002,4.898997554288792
+4,JV_test_atmosphere_N2 | Perovskite_band_gap | Stabilised_performance_measured | Stability_measured,0.12484506889902147,3.972328151119441,4.899373056961898
+5,EQE_measured | JV_test_atmosphere_N2 | Perovskite_composition_c_ions_Br | Perovskite_composition_inorganic | Perovskite_deposition_thermal_annealing_time,0.12450062993774691,3.9674680626894805,4.900337097097258
+4,EQE_measured | ETL_thickness | JV_scan_speed | Perovskite_thickness,0.12421060456785782,3.9367772973552575,4.90114869356764
+2,Perovskite_composition_leadfree | Perovskite_thickness,0.12395540038745734,3.978731719372958,4.901862736541411
+2,Cell_area_measured | Perovskite_composition_c_ions_Br; I,0.1236529467977514,3.9618114085450347,4.902708845311611
+3,JV_test_atmosphere_N2 | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_quenching_induced_crystallisation,0.12351389653102895,3.9724955885362645,4.90309778707273
+4,Backcontact_thickness_list | ETL_thickness | Perovskite_composition_c_ions_Br; I | Stabilised_performance_measured,0.1234758586990784,3.9672788547168616,4.9032041784835565
+2,Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.1230890006753873,3.973117667699836,4.9042860851532195
+4,JV_scan_speed | Perovskite_composition_c_ions_Br | Perovskite_deposition_thermal_annealing_temperature | Stability_measured,0.12263923596683568,3.962302334555206,4.905543619864455
+3,JV_scan_speed | Perovskite_deposition_thermal_annealing_temperature | Perovskite_thickness,0.12258146489620836,3.9430249446389105,4.905705123463376
+5,JV_scan_speed | JV_test_atmosphere_N2 | Perovskite_composition_inorganic | Stabilised_performance_measured | Stability_measured,0.12251680678744048,3.985300201050075,4.905885874017063
+5,EQE_measured | ETL_thickness | Perovskite_composition_c_ions_Br | Perovskite_deposition_thermal_annealing_time | Stability_measured,0.1221189034245691,3.9584534430270604,4.906998058988946
+3,JV_test_atmosphere_N2 | Perovskite_band_gap | Perovskite_deposition_thermal_annealing_time,0.12206202453867132,3.948307169786866,4.907157021326249
+3,Cell_area_measured | JV_test_atmosphere_N2 | Perovskite_deposition_thermal_annealing_temperature,0.12191911204004013,3.924937794670185,4.9075564034884875
+3,Perovskite_composition_c_ions_Br | Perovskite_composition_leadfree | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.12168304784885042,3.978031968132469,4.908216035474833
+3,Perovskite_composition_c_ions_Br | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_thermal_annealing_temperature,0.12141392773855675,3.9682783856081323,4.908967927187009
+4,EQE_measured | Perovskite_deposition_thermal_annealing_temperature | Perovskite_deposition_thermal_annealing_time | Stabilised_performance_measured,0.12111432337949779,3.9579119984771833,4.909804853057599
+4,ETL_thickness | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_thermal_annealing_time | Stabilised_performance_measured,0.12051209427581222,3.97257847242954,4.911486710612859
+3,JV_scan_speed | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_thermal_annealing_temperature,0.12037724000490757,3.9704952146074164,4.91186324198279
+2,Perovskite_composition_leadfree | Stability_measured,0.12029090049761204,4.018092315240979,4.912104298413689
+3,Perovskite_composition_inorganic | Perovskite_deposition_thermal_annealing_temperature | Perovskite_deposition_thermal_annealing_time,0.12002533568245932,3.9533962960656774,4.912845670554211
+5,Perovskite_composition_inorganic | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_time | Stabilised_performance_measured | Stability_measured,0.11947534280167538,3.9849092752199353,4.9143807193378475
+5,ETL_thickness | JV_scan_speed | JV_test_atmosphere_N2 | Perovskite_composition_inorganic | Stabilised_performance_measured,0.11927912838745203,3.9693322050237487,4.9149282443918425
+3,Cell_area_measured | Perovskite_composition_c_ions_Br | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.11926551953220266,3.957428854579422,4.914966216858952
+4,JV_test_atmosphere_N2 | Perovskite_composition_c_ions_Br | Perovskite_thickness | Stability_measured,0.11904802292857652,3.982561900314684,4.915573052684344
+3,Perovskite_band_gap | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_time,0.11872413274346671,3.9572254532707336,4.91647659771072
+2,Perovskite_composition_leadfree | Perovskite_composition_c_ions_Br,0.11844236964594967,3.9944803205021495,4.917262487247708
+2,Perovskite_band_gap | Backcontact_thickness_list,0.11842469711334569,3.968617954442227,4.917311775032828
+4,Perovskite_composition_c_ions_Br | Perovskite_composition_inorganic | Perovskite_deposition_thermal_annealing_time | Stabilised_performance_measured,0.11807840662671165,3.979953445062972,4.91827746173837
+4,Backcontact_thickness_list | Perovskite_composition_c_ions_Br | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_temperature,0.11799634549091098,3.9572125879061444,4.91850627462243
+4,EQE_measured | ETL_thickness | Perovskite_band_gap | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.11760552361622445,3.962920842926726,4.919595865883538
+4,Backcontact_thickness_list | EQE_measured | Perovskite_composition_inorganic | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.11760296150494343,3.9885683144297928,4.9196030081216495
+3,Backcontact_thickness_list | Perovskite_thickness | Stabilised_performance_measured,0.11724225004566502,3.9705639256042766,4.920608437529442
+3,JV_scan_speed | Perovskite_composition_inorganic | Perovskite_deposition_thermal_annealing_time,0.1170292915838742,3.9749906557351915,4.9212019310519075
+3,Perovskite_composition_c_ions_Br | Perovskite_deposition_thermal_annealing_temperature | Perovskite_thickness,0.117005265122062,3.9611535135995353,4.921268885858449
+4,ETL_thickness | Perovskite_composition_c_ions_Br | Perovskite_composition_inorganic | Perovskite_deposition_thermal_annealing_time,0.11649856501410127,3.9792772664538427,4.922680700530305
+3,Backcontact_thickness_list | Perovskite_composition_c_ions_Br; I | Stability_measured,0.11591325103289629,4.008889409158566,4.924311052598801
+5,Backcontact_thickness_list | EQE_measured | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_temperature | Stabilised_performance_measured,0.11562955286791621,3.979958642167968,4.925101080248993
+4,Backcontact_thickness_list | JV_test_atmosphere_N2 | Perovskite_composition_c_ions_Br | Perovskite_composition_inorganic,0.11560639846967669,3.9977240980969753,4.9251655537994905
+3,Perovskite_deposition_thermal_annealing_time | Perovskite_thickness | Stability_measured,0.11527200631777113,3.9773039471704603,4.926096576511857
+3,Perovskite_composition_c_ions_Br | Perovskite_composition_inorganic | Perovskite_thickness,0.11520071490590023,3.9940842366893397,4.926295045028764
+4,Backcontact_thickness_list | JV_test_atmosphere_N2 | Perovskite_composition_inorganic | Stabilised_performance_measured,0.11509140506616544,3.9998103195321093,4.926599337708669
+4,Backcontact_thickness_list | JV_scan_speed | JV_test_atmosphere_N2 | Perovskite_deposition_thermal_annealing_temperature,0.11490403404127436,3.9588664013579034,4.927120890506927
+2,Perovskite_band_gap | Perovskite_deposition_thermal_annealing_time,0.11485063086149327,3.9715977917814795,4.92726952973024
+4,EQE_measured | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_temperature,0.1145610910238698,4.00162276497402,4.92807533958664
+2,Perovskite_thickness | Perovskite_composition_c_ions_Br; I,0.11391572370204128,4.010787150884618,4.929870968532275
+2,Perovskite_composition_leadfree | Perovskite_composition_inorganic,0.11339414988030161,4.0146228061098785,4.931321684586272
+3,JV_test_atmosphere_N2 | Perovskite_composition_inorganic | Perovskite_composition_leadfree,0.11328515156966046,4.014231330075559,4.931624800798344
+3,EQE_measured | JV_test_atmosphere_N2 | Perovskite_composition_leadfree,0.11321987480816287,4.027163883554022,4.9318063217078265
+2,Perovskite_composition_leadfree | EQE_measured,0.11313822943446183,4.027970081592421,4.932033350872662
+5,JV_scan_speed | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_time | Stabilised_performance_measured | Stability_measured,0.11247317764608578,3.980624217871427,4.933882253946535
+4,Perovskite_composition_c_ions_Br | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_temperature | Perovskite_deposition_thermal_annealing_time,0.11236823640386373,3.962147976885256,4.934173936640143
+4,EQE_measured | Perovskite_composition_inorganic | Perovskite_deposition_thermal_annealing_time | Stabilised_performance_measured,0.11231212490155928,4.005732790500141,4.934329890690139
+3,EQE_measured | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_thermal_annealing_temperature,0.11204600560911904,4.01369398173118,4.935069464821944
+2,Cell_area_measured | Perovskite_deposition_thermal_annealing_temperature,0.11202527235551152,3.961612382532055,4.935127080109537
+4,Backcontact_thickness_list | JV_scan_speed | Stabilised_performance_measured | Stability_measured,0.11180502774623013,3.995263548309936,4.9357390726087775
+5,EQE_measured | JV_test_atmosphere_N2 | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_time,0.11159480919349918,4.012345453194532,4.936323134988193
+4,Cell_area_measured | EQE_measured | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Stabilised_performance_measured,0.11150506627267509,3.993458213131672,4.936572451895567
+2,Perovskite_composition_leadfree | Perovskite_deposition_thermal_annealing_time,0.11091729133449912,4.016251281158198,4.938205052001769
+2,Perovskite_deposition_quenching_induced_crystallisation | JV_test_atmosphere_N2,0.11081169994777362,4.001586832497117,4.938498284809766
+3,JV_test_atmosphere_N2 | Perovskite_band_gap | Stability_measured,0.11048295786310103,4.015177238675212,4.939411107320748
+4,Backcontact_thickness_list | ETL_thickness | Perovskite_composition_c_ions_Br | Stabilised_performance_measured,0.1102166073783003,3.9913589927038124,4.94015056255937
+3,JV_scan_speed | Perovskite_composition_c_ions_Br | Perovskite_composition_c_ions_Br; I,0.10992870946100486,4.006707708487025,4.940949714376605
+4,ETL_thickness | JV_scan_speed | Perovskite_composition_inorganic | Stabilised_performance_measured,0.10986264280805769,3.998608318183836,4.941133085055027
+2,Cell_area_measured | JV_scan_speed,0.10918229815643365,3.977032575325265,4.9430210135538495
+2,Cell_area_measured | Perovskite_composition_inorganic,0.10893436870666773,3.998504826928673,4.943708828366405
+4,EQE_measured | Perovskite_composition_c_ions_Br | Perovskite_composition_inorganic | Stabilised_performance_measured,0.1087696377685391,4.026375806799731,4.944165777961027
+3,Perovskite_composition_c_ions_Br; I | Perovskite_deposition_thermal_annealing_temperature | Stabilised_performance_measured,0.1087232095465358,4.017283040111313,4.944294558266662
+2,Perovskite_composition_leadfree | Stabilised_performance_measured,0.10867939413145611,4.036407962841613,4.944416088221362
+3,JV_scan_speed | Perovskite_composition_leadfree | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.10862767352958136,4.0172036519710295,4.944559540793111
+3,ETL_thickness | Perovskite_composition_c_ions_Br | Perovskite_thickness,0.1083506193201329,3.980458855206336,4.9453279091630895
+3,Backcontact_thickness_list | ETL_thickness | Perovskite_composition_inorganic,0.1076782140677609,4.016066931287861,4.94719222817796
+5,JV_test_atmosphere_N2 | Perovskite_composition_inorganic | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_time | Stability_measured,0.10757511447714718,4.019694462147644,4.947478021245722
+3,ETL_thickness | Perovskite_deposition_thermal_annealing_temperature | Perovskite_thickness,0.1075624620954243,3.9909216813833868,4.947513092633598
+3,Cell_area_measured | JV_test_atmosphere_N2 | Perovskite_composition_c_ions_Br,0.10706121549104752,3.99021548361007,4.948902308075347
+2,Perovskite_band_gap | Stability_measured,0.10660547100885809,4.031057547978091,4.950165075045541
+3,Perovskite_deposition_thermal_annealing_temperature | Perovskite_deposition_thermal_annealing_time | Stability_measured,0.10638262757800276,4.006525744397385,4.950782407563746
+2,Perovskite_composition_leadfree | Perovskite_deposition_thermal_annealing_temperature,0.10602819790361628,4.034326929553208,4.951764108622874
+4,ETL_thickness | Perovskite_composition_c_ions_Br | Perovskite_deposition_thermal_annealing_time | Stability_measured,0.10586263823887321,4.003852786827635,4.952222609915021
+3,EQE_measured | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_thermal_annealing_time,0.10547673621198717,4.0284941112901365,4.953291163063734
+3,JV_scan_speed | Perovskite_composition_inorganic | Perovskite_deposition_thermal_annealing_temperature,0.10536026032861667,4.007480798174902,4.953613636613378
+5,JV_scan_speed | JV_test_atmosphere_N2 | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Stabilised_performance_measured,0.1053318243904009,4.0150546080816785,4.953692360777855
+4,EQE_measured | Perovskite_composition_c_ions_Br; I | Stabilised_performance_measured | Stability_measured,0.10514438980561613,4.0394517541587005,4.954211237312724
+3,Perovskite_composition_c_ions_Br | Perovskite_composition_inorganic | Stability_measured,0.10497279231500245,4.039226716028143,4.954686224257701
+3,Cell_area_measured | EQE_measured | ETL_thickness,0.10485617623565846,4.005525919970548,4.955008995039065
+3,Perovskite_composition_c_ions_Br | Perovskite_thickness | Stabilised_performance_measured,0.10469708143253753,4.008575845851626,4.955449304817035
+2,Perovskite_band_gap | JV_scan_speed,0.10455045982011524,3.997000802345598,4.9558550592311645
+4,Backcontact_thickness_list | ETL_thickness | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_temperature,0.10448276529530653,3.998644535934738,4.956042382970765
+2,Perovskite_band_gap | Perovskite_deposition_thermal_annealing_temperature,0.10445263574074792,4.010797046518488,4.956125754952685
+3,EQE_measured | Perovskite_band_gap | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.10439670422196501,4.018421781439795,4.956280520252521
+3,Perovskite_band_gap | Perovskite_composition_c_ions_Br | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.10363726384714111,4.005447612768094,4.9583814515224285
+5,EQE_measured | JV_test_atmosphere_N2 | Perovskite_composition_inorganic | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Stability_measured,0.10289727973580198,4.045207187138763,4.960427702668114
+3,Perovskite_deposition_thermal_annealing_temperature | Perovskite_thickness | Stabilised_performance_measured,0.10275911745814403,4.017056818942551,4.960809664281178
+2,Perovskite_band_gap | Perovskite_composition_inorganic,0.10271250610473581,4.033783628456349,4.960938518780537
+4,EQE_measured | Perovskite_composition_inorganic | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Stability_measured,0.10207525777929294,4.047942712211016,4.962699820866783
+3,Cell_area_measured | EQE_measured | Stability_measured,0.10203369640997817,4.0299450277873365,4.9628146713680055
+5,JV_test_atmosphere_N2 | Perovskite_composition_inorganic | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Stabilised_performance_measured | Stability_measured,0.10181057138963745,4.046000302263799,4.963431208615505
+2,Perovskite_composition_leadfree | JV_scan_speed,0.10164175190035307,4.047196210274382,4.963897638371679
+3,Perovskite_band_gap | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Stabilised_performance_measured,0.10163010663084926,4.020496430333772,4.963929811359783
+5,EQE_measured | JV_test_atmosphere_N2 | Perovskite_composition_inorganic | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_time,0.10141708873014743,4.0333828719230755,4.964518290137238
+2,Backcontact_thickness_list | Perovskite_thickness,0.10081506391435424,4.01905873450599,4.966181054219899
+3,Perovskite_deposition_thermal_annealing_temperature | Perovskite_deposition_thermal_annealing_time | Stabilised_performance_measured,0.10077985575271575,4.007801077328032,4.966278280266905
+4,EQE_measured | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Stability_measured,0.10073156098041569,4.053705345064438,4.966411641413216
+4,Backcontact_thickness_list | JV_test_atmosphere_N2 | Perovskite_composition_inorganic | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.10068687263602416,4.033456786586086,4.966535040582459
+4,JV_scan_speed | Perovskite_composition_c_ions_Br | Stabilised_performance_measured | Stability_measured,0.10063690308063633,4.031874384161148,4.966673019275822
+3,Cell_area_measured | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Stabilised_performance_measured,0.10042621199619695,4.021237952034979,4.967254748973777
+3,EQE_measured | JV_scan_speed | Perovskite_thickness,0.09949196031653629,4.024688320750665,4.969833448959034
+3,Perovskite_composition_c_ions_Br; I | Perovskite_deposition_thermal_annealing_time | Stabilised_performance_measured,0.09949168325897384,4.038363390794754,4.969834213488485
+2,Perovskite_band_gap | EQE_measured,0.09883791062045932,4.046383811842517,4.971637945923744
+3,ETL_thickness | JV_test_atmosphere_N2 | Perovskite_composition_leadfree,0.09846876210843591,4.05463234410577,4.972656122820932
+2,Perovskite_band_gap | Perovskite_composition_c_ions_Br,0.0984631222523421,4.03045521345563,4.972671676924826
+4,Perovskite_composition_c_ions_Br | Perovskite_composition_inorganic | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_time,0.09770808866870928,4.041399773854654,4.974753537598656
+2,Cell_area_measured | Perovskite_composition_c_ions_Br,0.09732768904564792,4.021040292722275,4.975802086817548
+2,Perovskite_composition_leadfree | ETL_thickness,0.09716099179066728,4.060204744882469,4.976261508386563
+3,Backcontact_thickness_list | JV_scan_speed | Stability_measured,0.09684352016488895,4.041528524649955,4.977136350390758
+4,Backcontact_thickness_list | EQE_measured | JV_scan_speed | JV_test_atmosphere_N2,0.09681295127438472,4.032642246419351,4.977220579564844
+3,Perovskite_composition_c_ions_Br; I | Stabilised_performance_measured | Stability_measured,0.09678974660113704,4.0611131005102035,4.977284516506577
+4,JV_scan_speed | Perovskite_composition_c_ions_Br | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_temperature,0.09612786195642886,4.008654548498987,4.979107893101036
+3,JV_test_atmosphere_N2 | Perovskite_deposition_thermal_annealing_time | Perovskite_thickness,0.09590568276010225,4.023063238483231,4.979719808310232
+4,ETL_thickness | JV_test_atmosphere_N2 | Perovskite_composition_inorganic | Perovskite_deposition_thermal_annealing_time,0.0958371038243242,4.0400620052298795,4.979908669916026
+3,Backcontact_thickness_list | Perovskite_composition_c_ions_Br | Stabilised_performance_measured,0.09582135899511357,4.0387680034907225,4.979952029066508
+4,Perovskite_composition_inorganic | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_time | Stabilised_performance_measured,0.09570640645008921,4.046038516257984,4.980268581537559
+3,Perovskite_composition_c_ions_Br | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.09557366207709972,4.053002046789667,4.98063410351808
+2,Perovskite_band_gap | Stabilised_performance_measured,0.09543623511963728,4.048494144636898,4.981012491100928
+2,Perovskite_thickness | Perovskite_composition_inorganic,0.09454243594198208,4.052804317059753,4.983472751959887
+5,Backcontact_thickness_list | EQE_measured | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Stabilised_performance_measured | Stability_measured,0.09451165905601278,4.054298714513456,4.983557446414603
+3,Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_time | Perovskite_thickness,0.09440339351744109,4.020110857713413,4.983855369303079
+3,JV_test_atmosphere_N2 | Perovskite_composition_c_ions_Br | Perovskite_composition_c_ions_Br; I,0.09428879042365435,4.059938106716244,4.98417071234387
+5,ETL_thickness | JV_scan_speed | JV_test_atmosphere_N2 | Perovskite_composition_c_ions_Br | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.09406372182710687,4.012021731320497,4.984789955328595
+2,Perovskite_composition_c_ions_Br; I | Perovskite_composition_c_ions_Br,0.09391521254427038,4.060233998921647,4.985198514552359
+3,Perovskite_composition_c_ions_Br; I | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_temperature,0.0935543169819314,4.056108320928731,4.986191223475353
+3,JV_scan_speed | Perovskite_composition_c_ions_Br; I | Stabilised_performance_measured,0.0935076294002205,4.054968815690496,4.986319631728068
+3,Cell_area_measured | JV_test_atmosphere_N2 | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.09335292448475263,4.036266610355074,4.986745104281504
+3,ETL_thickness | Perovskite_composition_inorganic | Perovskite_deposition_thermal_annealing_time,0.09332101270527449,4.047247649804191,4.986832864179542
+4,Backcontact_thickness_list | ETL_thickness | Stabilised_performance_measured | Stability_measured,0.0927860024068613,4.05664173107671,4.988303954559911
+3,EQE_measured | JV_scan_speed | Perovskite_composition_inorganic,0.0922286364665802,4.068946753817005,4.989836053836928
+2,Backcontact_thickness_list | Perovskite_composition_c_ions_Br; I,0.0917402303942989,4.066804186670701,4.9911782081569385
+2,Perovskite_composition_leadfree | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.09172931223335268,4.072357004546908,4.991208207461677
+4,JV_test_atmosphere_N2 | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_temperature | Perovskite_deposition_thermal_annealing_time,0.0917176559467201,4.028447917584881,4.991240234679792
+3,EQE_measured | ETL_thickness | Perovskite_thickness,0.09155556595059744,4.040717628480273,4.991685577487778
+2,Perovskite_composition_c_ions_Br; I | Perovskite_deposition_thermal_annealing_temperature,0.09146882657627187,4.066650555620987,4.991923877890547
+2,Perovskite_deposition_thermal_annealing_time | Perovskite_thickness,0.09095042477734516,4.035045290136411,4.993347853947094
+3,Perovskite_composition_c_ions_Br | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_thickness,0.09073379798946468,4.035867257045108,4.993942776656258
+2,Perovskite_band_gap | ETL_thickness,0.09072465245491934,4.053383280169556,4.993967891502294
+2,Backcontact_thickness_list | Perovskite_composition_inorganic,0.09016735819370347,4.074524319741033,4.995498056893481
+3,Perovskite_thickness | Stabilised_performance_measured | Stability_measured,0.08975927013197338,4.071291698027827,4.99661824893918
+3,JV_scan_speed | JV_test_atmosphere_N2 | Perovskite_thickness,0.08966361371700593,4.049655223778201,4.996880787197779
+4,ETL_thickness | Perovskite_composition_c_ions_Br | Perovskite_composition_inorganic | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.08942545308536243,4.0620735872911595,4.997534382109098
+3,EQE_measured | Perovskite_composition_c_ions_Br | Perovskite_deposition_thermal_annealing_time,0.08918363365613047,4.057841290935214,4.998197930575182
+3,Backcontact_thickness_list | ETL_thickness | JV_scan_speed,0.08904840792277868,4.037126604508397,4.998568949323232
+2,Cell_area_measured | Stability_measured,0.08897596245782258,4.062645785416793,4.998767706565335
+2,Perovskite_composition_leadfree | JV_test_atmosphere_N2,0.0881860920748091,4.089064979102601,5.0009342372749925
+3,Cell_area_measured | EQE_measured | JV_test_atmosphere_N2,0.08795158554934324,4.0573509239986825,5.001577283135281
+4,EQE_measured | JV_test_atmosphere_N2 | Perovskite_composition_inorganic | Stabilised_performance_measured,0.08770211361511837,4.0878725366698285,5.00226127524943
+3,JV_scan_speed | Perovskite_composition_c_ions_Br | Perovskite_composition_inorganic,0.08764133830410636,4.075927195442398,5.002427892385282
+3,JV_test_atmosphere_N2 | Perovskite_deposition_thermal_annealing_temperature | Perovskite_thickness,0.08733997787756098,4.058663502412807,5.003253998060164
+4,EQE_measured | JV_test_atmosphere_N2 | Perovskite_thickness | Stabilised_performance_measured,0.086957899353585,4.070801975800457,5.004301176541227
+3,JV_test_atmosphere_N2 | Perovskite_composition_c_ions_Br; I | Stability_measured,0.08660276532622924,4.0941510283338856,5.0052743106661195
+2,Perovskite_thickness | Perovskite_composition_c_ions_Br,0.0863753315042125,4.058316176480171,5.0058974228069975
+4,EQE_measured | JV_scan_speed | Perovskite_composition_c_ions_Br | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.08628936008041121,4.065479151820753,5.006132942939016
+2,Perovskite_composition_c_ions_Br; I | Stability_measured,0.08614345403506096,4.095259755445428,5.006532629596425
+4,ETL_thickness | Perovskite_composition_c_ions_Br | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_time,0.0857799068866385,4.054415078181253,5.00752837104377
+3,EQE_measured | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.08534245145715857,4.092936286159004,5.008726281976652
+5,ETL_thickness | JV_test_atmosphere_N2 | Perovskite_deposition_thermal_annealing_time | Stabilised_performance_measured | Stability_measured,0.08512975173489357,4.0635599740076085,5.009308627118859
+3,JV_test_atmosphere_N2 | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_thermal_annealing_time,0.08488755766892597,4.0766422416851205,5.00997164165158
+2,Perovskite_composition_c_ions_Br; I | EQE_measured,0.08456682670739046,4.096980127987002,5.010849518608959
+2,Stability_measured | Perovskite_composition_inorganic,0.08447373180666229,4.100578448031856,5.011104301094964
+2,Cell_area_measured | ETL_thickness,0.08408704983014204,4.055260312665053,5.012162435210777
+2,Perovskite_thickness | Perovskite_deposition_thermal_annealing_temperature,0.08343351570572288,4.070419073956594,5.013950288019661
+3,Backcontact_thickness_list | ETL_thickness | Stability_measured,0.08279774242893656,4.088899654070847,5.015688941494326
+2,Perovskite_deposition_thermal_annealing_time | Perovskite_composition_c_ions_Br; I,0.0825726282851571,4.084238392282675,5.016304418200911
+4,ETL_thickness | Perovskite_composition_c_ions_Br | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_temperature,0.08240737702347367,4.055579300135158,5.016756177835737
+3,Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_temperature | Perovskite_deposition_thermal_annealing_time,0.0819645333043102,4.060636203825211,5.0179666120328115
+2,Cell_area_measured | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.08188702453939156,4.0678023753497445,5.018178438372635
+3,ETL_thickness | Perovskite_composition_c_ions_Br | Perovskite_deposition_thermal_annealing_time,0.08188162972080304,4.065780705134012,5.018193181723004
+3,ETL_thickness | JV_test_atmosphere_N2 | Perovskite_thickness,0.08161701048326975,4.063633620438417,5.018916299148832
+2,Perovskite_deposition_thermal_annealing_time | Perovskite_deposition_thermal_annealing_temperature,0.08105575146348887,4.063613876349564,5.020449690895697
+2,Cell_area_measured | EQE_measured,0.08086965347409036,4.080561578491896,5.0209580178687
+3,EQE_measured | JV_scan_speed | Perovskite_deposition_thermal_annealing_temperature,0.08083148858804923,4.085958684944749,5.021062258960368
+2,Perovskite_band_gap | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.08041168532132337,4.077378717867467,5.022208739552284
+3,ETL_thickness | JV_scan_speed | Perovskite_deposition_thermal_annealing_temperature,0.08028936866877279,4.062496031312738,5.022542736475479
+3,ETL_thickness | Perovskite_composition_c_ions_Br; I | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.07983006963738071,4.097737584700374,5.023796696688617
+3,ETL_thickness | JV_test_atmosphere_N2 | Perovskite_composition_c_ions_Br; I,0.07971789043567667,4.1024091646588765,5.0241029163927955
+2,Perovskite_thickness | JV_scan_speed,0.0793133447482175,4.078748654237911,5.025207064692746
+2,Cell_area_measured | Stabilised_performance_measured,0.07910194973207618,4.081901468572629,5.025783939980182
+2,Backcontact_thickness_list | Perovskite_deposition_thermal_annealing_time,0.07867842840533734,4.08213839841116,5.026939487008578
+2,Perovskite_band_gap | JV_test_atmosphere_N2,0.07856198492815614,4.089820581008925,5.027257147984563
+2,Perovskite_composition_c_ions_Br; I | Stabilised_performance_measured,0.07826318271372401,4.107724034638735,5.028072196736868
+3,Backcontact_thickness_list | JV_test_atmosphere_N2 | Perovskite_composition_c_ions_Br,0.07824377058290122,4.087893118845496,5.02812514302237
+2,Perovskite_thickness | Stability_measured,0.0774314832542028,4.107297633914225,5.030340144559508
+2,Perovskite_composition_c_ions_Br; I | ETL_thickness,0.07729623270116404,4.1091289777892,5.030708860454629
+2,Perovskite_deposition_thermal_annealing_temperature | Perovskite_composition_inorganic,0.0772588176746618,4.102138943763401,5.030810855376487
+2,Backcontact_thickness_list | Perovskite_composition_c_ions_Br,0.07702066333251767,4.092091015447313,5.031460025575183
+2,JV_scan_speed | Perovskite_composition_c_ions_Br; I,0.07662429309640917,4.106241027225607,5.032540281032435
+2,Perovskite_composition_inorganic | EQE_measured,0.07582264256323967,4.119334183614486,5.034724366731529
+2,Backcontact_thickness_list | Perovskite_deposition_thermal_annealing_temperature,0.07573878164256698,4.100981505217938,5.034952789901422
+4,EQE_measured | Perovskite_deposition_thermal_annealing_time | Stabilised_performance_measured | Stability_measured,0.0755487054715388,4.103133512188086,5.035470487350022
+3,JV_scan_speed | JV_test_atmosphere_N2 | Perovskite_deposition_thermal_annealing_time,0.07543813137518052,4.07631452805403,5.03577162595711
+3,Perovskite_composition_inorganic | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Stabilised_performance_measured,0.0746798126807302,4.1133179918738305,5.037836353691482
+3,EQE_measured | Perovskite_composition_c_ions_Br | Stabilised_performance_measured,0.07467252548046577,4.106276471341514,5.037856190960047
+3,EQE_measured | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_thickness,0.07426867849415453,4.094704859203179,5.038955424020472
+2,Perovskite_thickness | ETL_thickness,0.07332034522151576,4.086938005309438,5.041535754718707
+3,Backcontact_thickness_list | ETL_thickness | Stabilised_performance_measured,0.07331085301327755,4.100965397922466,5.041561575499616
+4,ETL_thickness | JV_test_atmosphere_N2 | Perovskite_deposition_thermal_annealing_temperature | Stability_measured,0.07305971628362817,4.110630376151238,5.042244671617155
+2,Perovskite_deposition_thermal_annealing_time | Perovskite_composition_inorganic,0.0730440924475605,4.113264955897618,5.042287165655653
+2,Perovskite_composition_inorganic | Stabilised_performance_measured,0.07274887863485391,4.1242558784744965,5.043090027101568
+3,Backcontact_thickness_list | JV_scan_speed | JV_test_atmosphere_N2,0.07243212627655038,4.09152419278658,5.043951322507629
+3,JV_scan_speed | JV_test_atmosphere_N2 | Perovskite_composition_inorganic,0.07171853045082632,4.121583251188219,5.045891153929191
+3,JV_scan_speed | Perovskite_composition_inorganic | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.07158493939800403,4.114806079459227,5.0462542235816805
+3,Backcontact_thickness_list | EQE_measured | Stabilised_performance_measured,0.07130244682048947,4.120012550487666,5.047021887206234
+3,ETL_thickness | Perovskite_deposition_thermal_annealing_temperature | Stability_measured,0.07129502304274371,4.1161787915669725,5.047042059486091
+2,Perovskite_thickness | EQE_measured,0.07052102928654369,4.1142078510697395,5.049144753867804
+2,Perovskite_composition_c_ions_Br | Perovskite_composition_inorganic,0.07010107815663968,4.13262034414418,5.050285260893609
+2,Perovskite_deposition_thermal_annealing_time | JV_scan_speed,0.06948434320885777,4.0986821227055925,5.051959728450116
+2,Stability_measured | Perovskite_composition_c_ions_Br,0.06935828296151492,4.125627861012221,5.052301920287848
+2,Backcontact_thickness_list | Stability_measured,0.06900232040626053,4.13764072902136,5.053268059205941
+2,Perovskite_thickness | Stabilised_performance_measured,0.06846353329387045,4.120639857144733,5.054730061726639
+2,Backcontact_thickness_list | JV_scan_speed,0.06842207455293103,4.1106539574016505,5.054842542783475
+2,Cell_area_measured | JV_test_atmosphere_N2,0.0683108651757176,4.1047028521251026,5.055144250831646
+3,ETL_thickness | Perovskite_deposition_thermal_annealing_time | Stability_measured,0.0679749705168059,4.115340462759586,5.05605541469343
+3,EQE_measured | Perovskite_deposition_thermal_annealing_time | Stability_measured,0.06768635503977183,4.128121358910793,5.056838195652448
+4,ETL_thickness | JV_test_atmosphere_N2 | Perovskite_deposition_thermal_annealing_time | Stabilised_performance_measured,0.06686895850622865,4.111835930513021,5.059054475786689
+2,JV_scan_speed | Perovskite_composition_inorganic,0.06590478861814897,4.13931333273606,5.061667468181003
+2,Perovskite_composition_c_ions_Br | EQE_measured,0.06527753934186775,4.131694414937799,5.063366649593021
+3,Backcontact_thickness_list | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Stabilised_performance_measured,0.06368086145577789,4.12427189305692,5.067689385144508
+3,JV_scan_speed | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_temperature,0.06364108464557183,4.111147328225625,5.067797027063675
+4,EQE_measured | ETL_thickness | JV_test_atmosphere_N2 | Perovskite_deposition_thermal_annealing_temperature,0.06339613737749594,4.126623398397614,5.068459840139287
+2,Perovskite_deposition_thermal_annealing_temperature | Perovskite_composition_c_ions_Br,0.06321843420455897,4.12427083163921,5.0689406403546196
+3,JV_test_atmosphere_N2 | Perovskite_composition_c_ions_Br | Perovskite_deposition_thermal_annealing_temperature,0.06316429125536216,4.124321933375638,5.069087122437618
+2,Perovskite_composition_c_ions_Br; I | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.06293085769031814,4.151290547588863,5.06971862130425
+2,Perovskite_composition_c_ions_Br; I | JV_test_atmosphere_N2,0.06266776205869728,4.154248968268953,5.070430269545234
+3,Backcontact_thickness_list | EQE_measured | JV_test_atmosphere_N2,0.062473703542840986,4.146732533748392,5.07095511506441
+2,Backcontact_thickness_list | EQE_measured,0.061724853138490854,4.149852572048361,5.072979926962183
+3,Perovskite_composition_c_ions_Br | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Stabilised_performance_measured,0.061719684705010325,4.129405640803981,5.072993899048773
+2,ETL_thickness | Perovskite_composition_inorganic,0.061354134700185026,4.150596952325158,5.073982011198967
+2,Perovskite_deposition_thermal_annealing_time | Perovskite_composition_c_ions_Br,0.06115882050504884,4.130148475890857,5.07450988289241
+3,Backcontact_thickness_list | ETL_thickness | JV_test_atmosphere_N2,0.06047917443824913,4.137648151257509,5.076346320623954
+3,EQE_measured | JV_scan_speed | Stability_measured,0.059971896974302275,4.157498811339767,5.077716576883545
+3,JV_test_atmosphere_N2 | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_thickness,0.05979397095828287,4.129896257328848,5.078197102482254
+3,JV_test_atmosphere_N2 | Perovskite_composition_c_ions_Br | Stabilised_performance_measured,0.05974974415642098,4.141170377129553,5.078316538950972
+3,EQE_measured | Perovskite_deposition_thermal_annealing_time | Stabilised_performance_measured,0.05967394797900927,4.144382487066878,5.078521223407027
+2,Perovskite_composition_c_ions_Br | Stabilised_performance_measured,0.059552263772323255,4.1413967237296,5.078849809344675
+2,Backcontact_thickness_list | Stabilised_performance_measured,0.05871218984436155,4.148519648260654,5.081117695565853
+2,Stability_measured | Perovskite_deposition_thermal_annealing_temperature,0.05837054828107502,4.162374323799771,5.0820397108564705
+2,JV_scan_speed | Perovskite_deposition_thermal_annealing_temperature,0.05724819109907531,4.139869627661081,5.085067528814839
+2,Perovskite_thickness | JV_test_atmosphere_N2,0.056959736361460345,4.150232970654659,5.085845410979908
+2,Backcontact_thickness_list | ETL_thickness,0.05649921935192104,4.147964536866807,5.087087050677986
+5,EQE_measured | JV_test_atmosphere_N2 | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Stabilised_performance_measured | Stability_measured,0.05554637809837115,4.1668282420573135,5.089655126574739
+2,JV_scan_speed | Perovskite_composition_c_ions_Br,0.05471649882867746,4.1500808893095416,5.091890742882083
+2,Perovskite_thickness | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.05406944534386038,4.144704285773846,5.0936331630249985
+3,EQE_measured | Stabilised_performance_measured | Stability_measured,0.05272640062213563,4.179157671315342,5.097247884314609
+2,Perovskite_composition_inorganic | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.0514803799807142,4.179070842609126,5.100599180538041
+2,ETL_thickness | Perovskite_composition_c_ions_Br,0.050437595414643654,4.16187928329688,5.103402161593841
+2,Perovskite_deposition_thermal_annealing_temperature | EQE_measured,0.05037571880035141,4.178585713622741,5.10356843613327
+2,Perovskite_deposition_thermal_annealing_time | Stability_measured,0.05014440207987225,4.172954247466252,5.104189981335007
+3,JV_scan_speed | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Stability_measured,0.04983103314882498,4.175346370253185,5.105031879124728
+3,EQE_measured | JV_scan_speed | Stabilised_performance_measured,0.04957198745745606,4.1754138207353755,5.10572772714579
+3,EQE_measured | JV_test_atmosphere_N2 | Perovskite_deposition_thermal_annealing_time,0.04929661480400682,4.174370323936406,5.1064673286452305
+2,Perovskite_deposition_thermal_annealing_time | EQE_measured,0.04892365552149547,4.1734417262598,5.107468859550612
+2,Perovskite_composition_inorganic | JV_test_atmosphere_N2,0.04888055636231747,4.191839882228153,5.107584583761855
+2,Perovskite_deposition_thermal_annealing_temperature | Stabilised_performance_measured,0.046850543096649044,4.182931177496519,5.113032342172369
+3,ETL_thickness | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_thermal_annealing_temperature,0.04670461828968664,4.165030222230768,5.113423723448985
+3,EQE_measured | JV_scan_speed | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.045462812902835714,4.184334370845413,5.11675312726432
+2,Stability_measured | EQE_measured,0.045435935347392764,4.201996825146783,5.116825164713273
+3,ETL_thickness | JV_scan_speed | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.04540086409666533,4.157189064036977,5.116919161447829
+2,Backcontact_thickness_list | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.04466321165240572,4.176112598958351,5.11889579168575
+2,JV_scan_speed | Stability_measured,0.04450030938630267,4.197584224624289,5.11933220541424
+2,Perovskite_deposition_thermal_annealing_time | ETL_thickness,0.04409715186408547,4.175232108544455,5.120412100911107
+3,JV_test_atmosphere_N2 | Stabilised_performance_measured | Stability_measured,0.04389240005947792,4.201868693547702,5.120960460759711
+2,Stability_measured | Stabilised_performance_measured,0.0436239588414441,4.2022975679911925,5.121679302648976
+2,Perovskite_deposition_thermal_annealing_time | Stabilised_performance_measured,0.043346146521537454,4.184841392506912,5.122423132603197
+3,ETL_thickness | JV_test_atmosphere_N2 | Perovskite_deposition_thermal_annealing_temperature,0.043020219867438314,4.18187729549286,5.12329564884843
+3,JV_test_atmosphere_N2 | Perovskite_composition_c_ions_Br | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.04227268215086544,4.1827737138059575,5.125296270588842
+2,Perovskite_deposition_thermal_annealing_temperature | ETL_thickness,0.041351860530656426,4.1888979403188,5.127759575993228
+2,Perovskite_composition_c_ions_Br | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.0413325023160811,4.184334928025757,5.127811348778761
+3,JV_scan_speed | JV_test_atmosphere_N2 | Stabilised_performance_measured,0.04111790896748413,4.1897881666125905,5.128385235260936
+2,Stability_measured | ETL_thickness,0.04107874838018555,4.203665775434789,5.128489955397621
+2,Backcontact_thickness_list | JV_test_atmosphere_N2,0.040928433288181965,4.197410284248002,5.12889189624025
+2,JV_scan_speed | EQE_measured,0.03958515171492438,4.208150664568552,5.132482418322872
+2,Perovskite_composition_c_ions_Br | JV_test_atmosphere_N2,0.03868924348794078,4.198998940948141,5.134875738971605
+3,EQE_measured | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Stabilised_performance_measured,0.03684008053330401,4.211910137916984,5.139812051240401
+2,ETL_thickness | EQE_measured,0.03638410352724786,4.210113073511974,5.141028546419113
+2,JV_scan_speed | Stabilised_performance_measured,0.03566759621014892,4.2080321734824055,5.142939525729589
+3,EQE_measured | JV_test_atmosphere_N2 | Stabilised_performance_measured,0.03535343262639523,4.221568206295825,5.1437771999244175
+2,EQE_measured | Stabilised_performance_measured,0.035137963563318775,4.222022976786129,5.144351639832186
+2,JV_scan_speed | ETL_thickness,0.03407816045518408,4.201951049038161,5.1471761387531725
+2,Stability_measured | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.03199570033468668,4.229830679043302,5.152721627830248
+2,ETL_thickness | Stabilised_performance_measured,0.031716912447184664,4.220842617245941,5.1534635733788035
+2,Stability_measured | JV_test_atmosphere_N2,0.030352704849427425,4.239047321950543,5.157092635853347
+2,Perovskite_deposition_thermal_annealing_temperature | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.030179144135620506,4.221587728948005,5.157554158632921
+3,EQE_measured | JV_test_atmosphere_N2 | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.028450317347999188,4.231912678058719,5.16214910396247
+2,Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | EQE_measured,0.027401546761469664,4.234928500853072,5.164934576477831
+2,Perovskite_deposition_thermal_annealing_temperature | JV_test_atmosphere_N2,0.02613569558339124,4.240087231837466,5.168294602674421
+2,EQE_measured | JV_test_atmosphere_N2,0.0256834096420413,4.2463711722422435,5.16949460335148
+2,Perovskite_deposition_thermal_annealing_time | JV_test_atmosphere_N2,0.02302978858580007,4.240561703814904,5.176529561062423
+2,Perovskite_deposition_thermal_annealing_time | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.02291034784047541,4.240374369393197,5.176845983019553
+2,Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Stabilised_performance_measured,0.022611286833965294,4.244793302770948,5.177638169447808
+2,Stabilised_performance_measured | JV_test_atmosphere_N2,0.020913545488458918,4.25451124558864,5.1821330425538275
+2,JV_scan_speed | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.020575142045155315,4.239683886290369,5.183028520248315
+2,JV_scan_speed | JV_test_atmosphere_N2,0.02002649956894942,4.248324953048557,5.184480000401394
+2,ETL_thickness | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid,0.017562711048493385,4.248751700443977,5.1909931580628506
+2,ETL_thickness | JV_test_atmosphere_N2,0.013582886701887786,4.268001071005511,5.2014968110509825
+2,Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | JV_test_atmosphere_N2,0.0027999044207633883,4.2950261789349,5.229849522742719

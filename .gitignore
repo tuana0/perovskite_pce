@@ -1,0 +1,10 @@
+﻿__pycache__/
+*.pyc
+catboost_info/
+*.cbm
+*.pkl
+*.ipynb_checkpoints/
+
+data/perovskite_data.csv
+data/spacelis_model_hazir_veri.csv
+data/spacelis_model_hazir_veri_clean_for_pce.csv

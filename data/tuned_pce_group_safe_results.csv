@@ -1,0 +1,3 @@
+model,cv_r2_best,holdout_r2,holdout_mae,holdout_rmse,best_params
+XGB_tuned_group_safe,0.3371495318749374,0.36993473359373097,3.2372335457920642,4.138573415162046,"{'model__subsample': 0.8, 'model__reg_lambda': 1.0, 'model__n_estimators': 220, 'model__min_child_weight': 3, 'model__max_depth': 7, 'model__learning_rate': 0.04, 'model__colsample_bytree': 0.6}"
+RF_tuned_group_safe,0.3254436931670398,0.3635502623896958,3.265097699053949,4.159488712298191,"{'model__n_estimators': 180, 'model__min_samples_split': 2, 'model__min_samples_leaf': 2, 'model__max_features': 'sqrt', 'model__max_depth': 40}"

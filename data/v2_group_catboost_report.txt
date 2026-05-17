@@ -1,0 +1,14 @@
+V2 Group CatBoost Report
+========================
+Rows used: 41519
+Features used: 150
+Categorical feature count: 90
+
+CV candidates:
+- cb_b: CV R2=0.4088 +- 0.0036, CV MAE=3.1496, CV RMSE=4.0111
+- cb_a: CV R2=0.4087 +- 0.0033, CV MAE=3.1546, CV RMSE=4.0113
+
+Holdout R2: 0.4233
+Holdout MAE: 3.1506
+Holdout RMSE: 4.0088
+Saved model: v2_group_catboost_model.cbm
