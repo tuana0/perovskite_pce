@@ -1,0 +1,42 @@
+Baseline Feature Audit + Ablation Report
+=======================================
+Rows used: 41519
+Baseline reference holdout R2: 0.4233
+Baseline features extracted: 150
+
+Feature category counts:
+- composition: 22 features
+- process/deposition: 63 features
+- annealing: 0 features
+- solvent/additive: 5 features
+- device stack: 3 features
+- ETL/HTL/contact layers: 4 features
+- geometry/cell/module: 12 features
+- measurement/outdoor: 14 features
+- metadata/other: 27 features
+
+Leakage/risk screening among baseline features:
+- Risk-flagged features found: 17
+- Examples: Cell_area_measured, Perovskite_composition_a_ions_coefficients, Perovskite_composition_b_ions_coefficients, Perovskite_composition_c_ions_coefficients, JV_scan_speed, EQE_measured, Stability_measured, Outdoor_tested, Outdoor_average_over_n_number_of_cells, Outdoor_installation_number_of_solar_tracking_axis, Outdoor_time_start, Outdoor_time_end, Outdoor_periodic_JV_measurements, Outdoor_detaild_weather_data_available, Outdoor_spectral_data_available
+
+Ablation results (sorted by holdout R2):
+- full_baseline_features: n=150, CV R2=0.4127 +- 0.0219, Holdout R2=0.4233, delta=-0.0000, overfit=False
+- top40_feature_importance: n=40, CV R2=0.4129 +- 0.0226, Holdout R2=0.4205, delta=-0.0028, overfit=False
+- no_measurement_features: n=136, CV R2=0.4086 +- 0.0237, Holdout R2=0.4144, delta=-0.0089, overfit=False
+- no_geometry_features: n=138, CV R2=0.4036 +- 0.0208, Holdout R2=0.4106, delta=-0.0127, overfit=False
+- top20_feature_importance: n=20, CV R2=0.4090 +- 0.0229, Holdout R2=0.4102, delta=-0.0131, overfit=False
+- no_metadata_features: n=123, CV R2=0.3870 +- 0.0225, Holdout R2=0.4064, delta=-0.0169, overfit=False
+- composition_plus_process_plus_device: n=97, CV R2=0.3494 +- 0.0220, Holdout R2=0.3633, delta=-0.0600, overfit=False
+- composition_plus_process: n=90, CV R2=0.3304 +- 0.0250, Holdout R2=0.3454, delta=-0.0779, overfit=False
+- composition_only: n=22, CV R2=0.2526 +- 0.0351, Holdout R2=0.2715, delta=-0.1518, overfit=False
+- process_only: n=68, CV R2=0.2021 +- 0.0058, Holdout R2=0.2186, delta=-0.2047, overfit=False
+- device_stack_only: n=7, CV R2=0.0502 +- 0.0043, Holdout R2=0.0563, delta=-0.3670, overfit=False
+
+Key findings:
+- Best setup: full_baseline_features (Holdout R2=0.4233).
+- Largest performance drop vs baseline: device_stack_only (delta=-0.3670), indicating strong dependence on removed feature group(s).
+- Small combo models stayed below baseline because baseline likely captures multi-factor materials interactions (composition + process + stack + geometry) that low-dimensional combos cannot represent.
+- If full baseline remains top, this supports a multi-factor materials science signal rather than a single-feature shortcut.
+
+Top 30 feature importance saved to baseline_feature_importance.csv.
+SHAP not available in environment; only CatBoost gain importance reported.

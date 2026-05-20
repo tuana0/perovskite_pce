@@ -1,0 +1,32 @@
+Final Feature Set Analysis Report
+=================================
+Rows used: 41519
+Target: JV_default_PCE
+Group column: Ref_DOI_number
+Baseline reference holdout R2: 0.4233
+
+Candidate set results:
+- full_baseline_features: n=150, CV R2=0.4027 +- 0.0199, Holdout R2=0.4064, delta=-0.0169, risk_count=31, overfit=False
+- top40_feature_importance: n=40, CV R2=0.4060 +- 0.0204, Holdout R2=0.4062, delta=-0.0171, risk_count=11, overfit=False
+- no_measurement_features: n=136, CV R2=0.3979 +- 0.0235, Holdout R2=0.3995, delta=-0.0238, risk_count=17, overfit=False
+- top20_feature_importance: n=20, CV R2=0.3941 +- 0.0260, Holdout R2=0.3968, delta=-0.0265, risk_count=6, overfit=False
+- no_metadata_features: n=123, CV R2=0.3755 +- 0.0250, Holdout R2=0.3912, delta=-0.0321, risk_count=19, overfit=False
+
+Recommendation:
+- Recommended final set: top40_feature_importance
+- Reason: selected by performance proximity to baseline, compactness, lower risk burden, and CV-holdout stability.
+- Full baseline vs top40: 0.4064 vs 0.4062.
+- Full baseline vs top20: 0.4064 vs 0.3968.
+- Performance-explainability tradeoff: compact sets reduce complexity and improve interpretability, but may lose multi-factor interactions captured by full baseline.
+
+Leakage/risk note:
+- Risk features were tracked (JV/performance proxies, Voc/Jsc/FF terms, measured/certified/scan/reverse/forward, outdoor post-measurement signals, bibliographic identifiers).
+- Risk features should not be accepted solely because they raise score.
+
+Top 30 important features saved to final_feature_set_importance.csv.
+SHAP not available; CatBoost gain importance used.
+
+Next feature-engineering steps for later R2 improvement:
+- Standardize composition descriptors (A/B/C ion stoichiometry normalization).
+- Add physics-informed aggregates (bandgap-alignment/process interaction features).
+- Harmonize process metadata units and categorical vocabularies across studies.

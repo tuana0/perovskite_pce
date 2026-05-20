@@ -1,0 +1,25 @@
+Derived Feature Generation Log
+===============================
+Base features loaded: 30
+- mixed_cation_count: missing_ratio=0.0014 KEPT
+- mixed_halide_count: missing_ratio=0.0009 KEPT
+- inorganic_vs_organic_binary: missing_ratio=0.0000 KEPT
+- leadfree_binary: missing_ratio=0.0000 KEPT
+- normalized_A_B_C_ion_counts: missing_ratio=0.0000 KEPT
+- composition_complexity_score: missing_ratio=0.0000 KEPT
+- annealing_energy: missing_ratio=0.1138 KEPT
+- deposition_step_count: missing_ratio=0.0000 KEPT
+- solvent_count: missing_ratio=0.0498 KEPT
+- additive_presence_binary: missing_ratio=0.0000 KEPT
+- quenching_and_annealing_interaction: missing_ratio=0.0000 KEPT
+- process_complexity_score: missing_ratio=0.0000 KEPT
+- architecture_class: missing_ratio=0.0000 KEPT
+- flexible_and_semitransparent_interaction: missing_ratio=0.0000 KEPT
+- stack_depth_estimate: missing_ratio=0.0001 KEPT
+- device_complexity_score: missing_ratio=0.0000 KEPT
+- bandgap_bucket: missing_ratio=0.2474 KEPT
+- graded_bandgap_binary: missing_ratio=0.0000 KEPT
+- dimensionality_score: missing_ratio=0.0000 KEPT
+
+Derived kept: 19
+Derived excluded: 0

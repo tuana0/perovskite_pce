@@ -1,0 +1,26 @@
+Physics Feature Engineering Report
+==================================
+Rows used: 41519
+Base feature count (from final_feature_set_importance): 30
+Derived kept/excluded: 19/0
+
+Setup results:
+- top40_plus_all_derived: n=49, derived=19, CV R2=0.4214 +- 0.0199, Holdout R2=0.4244, delta_vs_top40=0.0182, overfit=False
+- top40_plus_device_features: n=34, derived=4, CV R2=0.4212 +- 0.0203, Holdout R2=0.4231, delta_vs_top40=0.0169, overfit=False
+- top40_plus_composition_features: n=36, derived=6, CV R2=0.4043 +- 0.0218, Holdout R2=0.4092, delta_vs_top40=0.0030, overfit=False
+- top40_plus_process_features: n=36, derived=6, CV R2=0.4043 +- 0.0216, Holdout R2=0.4087, delta_vs_top40=0.0025, overfit=False
+- top40_plus_bandgap_features: n=33, derived=3, CV R2=0.4062 +- 0.0241, Holdout R2=0.4065, delta_vs_top40=0.0003, overfit=False
+- original_top40: n=30, derived=0, CV R2=0.4035 +- 0.0217, Holdout R2=0.4043, delta_vs_top40=-0.0019, overfit=False
+- derived_features_only: n=19, derived=19, CV R2=0.3147 +- 0.0253, Holdout R2=0.3262, delta_vs_top40=-0.0800, overfit=False
+
+Key answers:
+- Best setup: top40_plus_all_derived (Holdout R2=0.4244).
+- Original top40 Holdout R2 in this run: 0.4043.
+- Derived features carry signal if any derived-augmented setup beats original_top40.
+- Interaction usefulness is indicated by gains in setups containing interaction terms.
+- Derived-only performance shows standalone explanatory power of engineered physics features.
+- Leakage risk check: best setup includes 9 risk-tagged features; review before final deployment.
+
+Final recommendation:
+- Recommend top40_plus_all_derived for next phase (meaningful gain over original_top40).
+- Next step for R2 improvement: enrich composition stoichiometry parsing and process-condition harmonization.

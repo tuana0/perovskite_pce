@@ -1,17 +1,19 @@
-Feature Combination Search Report
-=================================
+Feature Combination Search Report (DOI Group-Safe)
+==================================================
 Rows used: 41519
-Feature pool size: 18
-Pool features: Perovskite_deposition_quenching_induced_crystallisation, Cell_area_measured, Perovskite_composition_leadfree, Perovskite_band_gap, Backcontact_thickness_list, Perovskite_deposition_thermal_annealing_time, Perovskite_thickness, JV_scan_speed, Perovskite_composition_c_ions_Br; I, Stability_measured, Perovskite_deposition_thermal_annealing_temperature, ETL_thickness, Perovskite_composition_c_ions_Br, Perovskite_composition_inorganic, Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid, EQE_measured, Stabilised_performance_measured, JV_test_atmosphere_N2
-Total combinations evaluated: 813
+Groups used: 7382
+Feature pool size: 40
+Pool features: Perovskite_deposition_solvents_mixing_ratios, Cell_area_measured, Perovskite_composition_leadfree, Perovskite_deposition_thermal_annealing_time, Backcontact_thickness_list, Perovskite_band_gap, Perovskite_deposition_thermal_annealing_temperature, Perovskite_composition_a_ions_coefficients, Perovskite_deposition_quenching_induced_crystallisation, Perovskite_composition_c_ions_coefficients, Cell_stack_sequence, ETL_stack_sequence, Perovskite_deposition_number_of_deposition_steps, Perovskite_composition_long_form, Perovskite_composition_b_ions_coefficients, Perovskite_composition_inorganic, Cell_semitransparent, Cell_flexible, Encapsulation, Cell_area_total, Perovskite_deposition_solvent_annealing, Perovskite_composition_perovskite_ABC3_structure, Perovskite_dimension_3D, Perovskite_dimension_list_of_layers, Cell_number_of_cells_per_substrate, Perovskite_dimension_2D3D_mixture, Perovskite_dimension_2D, Add_lay_front, Module_number_of_cells_in_module, Perovskite_dimension_3D_with_2D_capping_layer, Perovskite_band_gap_graded, Module, Perovskite_dimension_0D, Perovskite_single_crystal, Module_JV_data_recalculated_per_cell, Add_lay_back, Outdoor_irradiance_measured, Outdoor_periodic_JV_measurements, Outdoor_tested, Perovskite_composition_perovskite_inspired_structure
+Total combinations evaluated: 3000
 
-Best combo (k=5):
-Backcontact_thickness_list | Cell_area_measured | Perovskite_composition_c_ions_Br | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_thickness
-R2=0.3423, MAE=3.2809, RMSE=4.2472
+Best combo (k=7):
+Cell_number_of_cells_per_substrate | Perovskite_composition_c_ions_coefficients | Perovskite_composition_inorganic | Perovskite_composition_leadfree | Perovskite_composition_perovskite_ABC3_structure | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_dimension_2D3D_mixture
+CV R2=0.2506 +- 0.0179
+Holdout R2=0.2549, MAE=3.6325, RMSE=4.5566
 
 Top 5 combos:
-- k=5, R2=0.3423: Backcontact_thickness_list | Cell_area_measured | Perovskite_composition_c_ions_Br | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_thickness
-- k=5, R2=0.3421: Cell_area_measured | Perovskite_band_gap | Perovskite_deposition_aggregation_state_of_reactants_Liquid >> Liquid | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_thickness
-- k=5, R2=0.3268: Cell_area_measured | JV_scan_speed | Perovskite_band_gap | Perovskite_composition_leadfree | Perovskite_deposition_thermal_annealing_time
-- k=5, R2=0.3254: Cell_area_measured | EQE_measured | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_deposition_thermal_annealing_time | Perovskite_thickness
-- k=5, R2=0.3247: Backcontact_thickness_list | Cell_area_measured | JV_scan_speed | Perovskite_deposition_thermal_annealing_temperature | Perovskite_thickness
+- k=7, CV R2=0.2506, Holdout R2=0.2549: Cell_number_of_cells_per_substrate | Perovskite_composition_c_ions_coefficients | Perovskite_composition_inorganic | Perovskite_composition_leadfree | Perovskite_composition_perovskite_ABC3_structure | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_dimension_2D3D_mixture
+- k=8, CV R2=0.2487, Holdout R2=0.2447: Cell_number_of_cells_per_substrate | Encapsulation | Perovskite_composition_a_ions_coefficients | Perovskite_composition_leadfree | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_dimension_0D | Perovskite_dimension_list_of_layers | Perovskite_single_crystal
+- k=8, CV R2=0.2445, Holdout R2=0.2425: Outdoor_periodic_JV_measurements | Perovskite_composition_c_ions_coefficients | Perovskite_composition_leadfree | Perovskite_composition_long_form | Perovskite_composition_perovskite_inspired_structure | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_dimension_2D3D_mixture | Perovskite_single_crystal
+- k=8, CV R2=0.2440, Holdout R2=0.2327: Add_lay_back | Perovskite_composition_c_ions_coefficients | Perovskite_composition_leadfree | Perovskite_composition_long_form | Perovskite_deposition_number_of_deposition_steps | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_dimension_0D | Perovskite_single_crystal
+- k=8, CV R2=0.2439, Holdout R2=0.2380: Module_JV_data_recalculated_per_cell | Outdoor_tested | Perovskite_composition_c_ions_coefficients | Perovskite_composition_leadfree | Perovskite_composition_perovskite_inspired_structure | Perovskite_deposition_quenching_induced_crystallisation | Perovskite_dimension_2D | Perovskite_dimension_list_of_layers
