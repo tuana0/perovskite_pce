@@ -1,0 +1,28 @@
+{
+  "model_name": "CatBoost_tuned",
+  "created_at_utc": "2026-05-22T22:51:11.431266Z",
+  "target": "JV_default_PCE",
+  "group_column": "Ref_DOI_number",
+  "feature_set_name": "top40_plus_all_derived",
+  "n_rows": 41519,
+  "n_features": 49,
+  "n_base_features_input": 30,
+  "n_derived_features_kept": 19,
+  "catboost_params": {
+    "loss_function": "RMSE",
+    "eval_metric": "R2",
+    "random_seed": 42,
+    "nan_mode": "Min",
+    "depth": 6,
+    "learning_rate": 0.05,
+    "l2_leaf_reg": 5,
+    "iterations": 800,
+    "subsample": 1.0,
+    "verbose": false
+  },
+  "artifacts": {
+    "model": "final_model.cbm",
+    "feature_list": "final_feature_list.csv",
+    "metadata": "final_model_metadata.json"
+  }
+}

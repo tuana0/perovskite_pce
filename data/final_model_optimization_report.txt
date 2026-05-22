@@ -1,0 +1,28 @@
+Final Model Optimization Report
+===============================
+Rows used: 41519
+Final setup: top40_plus_all_derived
+Features used: 49 (base=30, derived_kept=19)
+
+Model results:
+- Ens_Cat_XGB_50_50: CV R2=0.4276 +- 0.0197, Holdout R2=0.4311, d_top40=0.0249, d_phys=0.0067, d_hist=0.0078, overfit=False
+- Ens_Cat_XGB_ET_40_40_20: CV R2=0.4284 +- 0.0200, Holdout R2=0.4311, d_top40=0.0249, d_phys=0.0067, d_hist=0.0078, overfit=False
+- CatBoost_tuned: CV R2=0.4239 +- 0.0204, Holdout R2=0.4308, d_top40=0.0246, d_phys=0.0064, d_hist=0.0075, overfit=False
+- Ens_Cat_XGB_60_40: CV R2=0.4276 +- 0.0198, Holdout R2=0.4308, d_top40=0.0246, d_phys=0.0064, d_hist=0.0075, overfit=False
+- Ens_Cat_XGB_ET_50_30_20: CV R2=0.4282 +- 0.0200, Holdout R2=0.4306, d_top40=0.0244, d_phys=0.0062, d_hist=0.0073, overfit=False
+- Ens_Cat_XGB_70_30: CV R2=0.4273 +- 0.0200, Holdout R2=0.4301, d_top40=0.0239, d_phys=0.0057, d_hist=0.0068, overfit=False
+- XGBoost_tuned: CV R2=0.4237 +- 0.0218, Holdout R2=0.4296, d_top40=0.0234, d_phys=0.0052, d_hist=0.0063, overfit=False
+- XGBoost: CV R2=0.4222 +- 0.0192, Holdout R2=0.4284, d_top40=0.0222, d_phys=0.0040, d_hist=0.0051, overfit=False
+- CatBoost: CV R2=0.4240 +- 0.0204, Holdout R2=0.4264, d_top40=0.0202, d_phys=0.0020, d_hist=0.0031, overfit=False
+- Ens_Cat_ET_50_50: CV R2=0.4075 +- 0.0204, Holdout R2=0.4082, d_top40=0.0020, d_phys=-0.0162, d_hist=-0.0151, overfit=False
+- RandomForest: CV R2=0.3573 +- 0.0288, Holdout R2=0.3722, d_top40=-0.0340, d_phys=-0.0522, d_hist=-0.0511, overfit=False
+- ExtraTrees: CV R2=0.3230 +- 0.0211, Holdout R2=0.3218, d_top40=-0.0844, d_phys=-0.1026, d_hist=-0.1015, overfit=False
+
+Best single model: CatBoost_tuned
+Best tuned model: CatBoost_tuned (R2=0.4308)
+Best ensemble: Ens_Cat_XGB_50_50 (R2=0.4311)
+
+Did any model beat physics best (0.4244)? Yes
+Overall best model: Ens_Cat_XGB_50_50 (R2=0.4311)
+Recommendation: accept final model only if overfit_flag is False and leakage-risk review passes.
+If scores stay in 0.42-0.45 band, this may be a realistic leakage-free DOI-group-safe ceiling.
