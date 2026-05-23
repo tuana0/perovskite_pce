@@ -1,0 +1,69 @@
+Rule 1
+Pattern: A_site_variance shows missing_descriptor pattern in low-risk high-score candidates.
+Evidence: dataset=NA, candidates=NA, diff=NA, enrich=NA, std_diff=NA
+Candidate group: high_score_lower_risk
+Interpretation: Model links this descriptor with high-score low-risk profiles.
+Experimental caution: Treat as model-guided hypothesis, not direct experimental truth.
+
+Rule 2
+Pattern: cation_entropy shows enriched_above_dataset pattern in low-risk high-score candidates.
+Evidence: dataset=0.1383015671316672, candidates=0.4414435806539849, diff=0.30314201352231773, enrich=3.1918913849596335, std_diff=1.207956184371909
+Candidate group: high_score_lower_risk
+Interpretation: Model links this descriptor with high-score low-risk profiles.
+Experimental caution: Treat as model-guided hypothesis, not direct experimental truth.
+
+Rule 3
+Pattern: X_site_variance shows missing_descriptor pattern in low-risk high-score candidates.
+Evidence: dataset=NA, candidates=NA, diff=NA, enrich=NA, std_diff=NA
+Candidate group: high_score_lower_risk
+Interpretation: Model links this descriptor with high-score low-risk profiles.
+Experimental caution: Treat as model-guided hypothesis, not direct experimental truth.
+
+Rule 4
+Pattern: bandgap_bucket shows mode_shifted pattern in low-risk high-score candidates.
+Evidence: dataset=mid, candidates=Unknown, diff=-0.4133330375057019, enrich=0.39274138561893784, std_diff=NA
+Candidate group: high_score_lower_risk
+Interpretation: Model links this descriptor with high-score low-risk profiles.
+Experimental caution: Treat as model-guided hypothesis, not direct experimental truth.
+
+Rule 5
+Pattern: bandgap_distance_from_1p7 shows near_dataset_baseline pattern in low-risk high-score candidates.
+Evidence: dataset=0.11908369440454478, candidates=0.1090496535796765, diff=-0.010034040824868279, enrich=0.9157395907555473, std_diff=-0.12775992176615658
+Candidate group: high_score_lower_risk
+Interpretation: Model links this descriptor with high-score low-risk profiles.
+Experimental caution: Treat as model-guided hypothesis, not direct experimental truth.
+
+Rule 6
+Pattern: quenching_binary shows mode_shifted pattern in low-risk high-score candidates.
+Evidence: dataset=False, candidates=True, diff=-0.4018911466045018, enrich=0.22232762216946875, std_diff=NA
+Candidate group: high_score_lower_risk
+Interpretation: Model links this descriptor with high-score low-risk profiles.
+Experimental caution: Treat as model-guided hypothesis, not direct experimental truth.
+
+Rule 7
+Pattern: annealing_energy shows near_dataset_baseline pattern in low-risk high-score candidates.
+Evidence: dataset=2743.2173892431156, candidates=3182.7595266189046, diff=439.542137375789, enrich=1.1602286931758856, std_diff=0.07007709250198865
+Candidate group: high_score_lower_risk
+Interpretation: Model links this descriptor with high-score low-risk profiles.
+Experimental caution: Treat as model-guided hypothesis, not direct experimental truth.
+
+Rule 8
+Pattern: annealing_time_bucket shows same_mode pattern in low-risk high-score candidates.
+Evidence: dataset=short, candidates=short, diff=-0.0373576429281407, enrich=0.910717358026968, std_diff=NA
+Candidate group: high_score_lower_risk
+Interpretation: Model links this descriptor with high-score low-risk profiles.
+Experimental caution: Treat as model-guided hypothesis, not direct experimental truth.
+
+Rule 9
+Pattern: annealing_temperature_bucket shows same_mode pattern in low-risk high-score candidates.
+Evidence: dataset=mid, candidates=mid, diff=-0.034694962987719125, enrich=0.9405675298023263, std_diff=NA
+Candidate group: high_score_lower_risk
+Interpretation: Model links this descriptor with high-score low-risk profiles.
+Experimental caution: Treat as model-guided hypothesis, not direct experimental truth.
+
+Rule 10
+Pattern: stack_depth_estimate shows near_dataset_baseline pattern in low-risk high-score candidates.
+Evidence: dataset=8.997445135671782, candidates=9.063988989404058, diff=0.06654385373227534, enrich=1.007395861017085, std_diff=0.04276552393010771
+Candidate group: high_score_lower_risk
+Interpretation: Model links this descriptor with high-score low-risk profiles.
+Experimental caution: Treat as model-guided hypothesis, not direct experimental truth.

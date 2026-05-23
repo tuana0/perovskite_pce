@@ -1,0 +1,73 @@
+Executive summary
+-----------------
+This analysis extracts descriptor-level profiles from existing safe_descriptor outputs.
+No new model training or new candidate generation is performed.
+These are model-guided design hypotheses, not final experimental recipes.
+
+Candidate group counts
+----------------------
+Total candidates: 41999
+high_score_lower_risk: 1732
+existing: 1465
+perturbation: 37
+recombination: 230
+
+Enriched numerical descriptors
+------------------------------
+composition_complexity_score: dataset=2.832308697770042, candidate=4.885156481494886, diff=2.052847783724844, z=1.4335520898168888, enrich=1.7247966245138144, interp=enriched_above_dataset
+cation_entropy: dataset=0.1383015671316672, candidate=0.4414435806539849, diff=0.30314201352231773, z=1.207956184371909, enrich=3.1918913849596335, interp=enriched_above_dataset
+bandgap_distance_from_1p7: dataset=0.11908369440454478, candidate=0.1090496535796765, diff=-0.010034040824868279, z=-0.12775992176615658, enrich=0.9157395907555473, interp=near_dataset_baseline
+annealing_energy: dataset=2743.2173892431156, candidate=3182.7595266189046, diff=439.542137375789, z=0.07007709250198865, enrich=1.1602286931758856, interp=near_dataset_baseline
+stack_depth_estimate: dataset=8.997445135671782, candidate=9.063988989404058, diff=0.06654385373227534, z=0.04276552393010771, enrich=1.007395861017085, interp=near_dataset_baseline
+device_complexity_score: dataset=8.998431460414167, candidate=9.056712708901836, diff=0.05828124848766869, z=0.03735363429444718, enrich=1.0064768230712273, interp=near_dataset_baseline
+
+Enriched categorical/boolean descriptors
+----------------------------------------
+bandgap_bucket: dataset_mode=mid, candidate_mode=Unknown, dataset_freq=0.6806540536719836, candidate_freq=0.7326789838337182, enrich=0.39274138561893784, interp=mode_shifted
+quenching_binary: dataset_mode=False, candidate_mode=True, dataset_freq=0.5167872205075041, candidate_freq=0.7488452655889145, enrich=0.22232762216946875, interp=mode_shifted
+annealing_time_bucket: dataset_mode=short, candidate_mode=short, dataset_freq=0.4184199985863393, candidate_freq=0.3810623556581986, enrich=0.910717358026968, interp=same_mode
+annealing_temperature_bucket: dataset_mode=mid, candidate_mode=mid, dataset_freq=0.5837711754588507, candidate_freq=0.5490762124711316, enrich=0.9405675298023263, interp=same_mode
+architecture_class: dataset_mode=nip, candidate_mode=nip, dataset_freq=0.6903376292910491, candidate_freq=0.8706697459584296, enrich=1.2612230726182125, interp=same_mode
+solvent_count: dataset_mode=Unknown, candidate_mode=Unknown, dataset_freq=0.9895389110100605, candidate_freq=1.0, enrich=1.010571680278102, interp=same_mode
+process_complexity_score: dataset_mode=Unknown, candidate_mode=Unknown, dataset_freq=0.9895389110100605, candidate_freq=1.0, enrich=1.010571680278102, interp=same_mode
+
+Top 10 low-risk high-score candidates
+-------------------------------------
+CAND_41991 | type=recombination | predicted_PCE=20.4290 | risk=0.000
+CAND_41572 | type=perturbation | predicted_PCE=20.3770 | risk=0.000
+CAND_41548 | type=perturbation | predicted_PCE=20.3537 | risk=0.000
+CAND_41798 | type=recombination | predicted_PCE=20.1197 | risk=0.000
+CAND_41568 | type=perturbation | predicted_PCE=20.1007 | risk=0.000
+CAND_41592 | type=perturbation | predicted_PCE=20.0247 | risk=0.000
+CAND_41578 | type=perturbation | predicted_PCE=20.0000 | risk=0.000
+CAND_41570 | type=perturbation | predicted_PCE=20.0000 | risk=0.000
+CAND_25643 | type=existing | predicted_PCE=19.9965 | risk=0.000
+CAND_25644 | type=existing | predicted_PCE=19.9965 | risk=0.000
+
+Design rules
+------------
+Rule 1: A_site_variance shows missing_descriptor pattern in low-risk high-score candidates.
+Rule 2: cation_entropy shows enriched_above_dataset pattern in low-risk high-score candidates.
+Rule 3: X_site_variance shows missing_descriptor pattern in low-risk high-score candidates.
+Rule 4: bandgap_bucket shows mode_shifted pattern in low-risk high-score candidates.
+Rule 5: bandgap_distance_from_1p7 shows near_dataset_baseline pattern in low-risk high-score candidates.
+Rule 6: quenching_binary shows mode_shifted pattern in low-risk high-score candidates.
+Rule 7: annealing_energy shows near_dataset_baseline pattern in low-risk high-score candidates.
+Rule 8: annealing_time_bucket shows same_mode pattern in low-risk high-score candidates.
+Rule 9: annealing_temperature_bucket shows same_mode pattern in low-risk high-score candidates.
+Rule 10: stack_depth_estimate shows near_dataset_baseline pattern in low-risk high-score candidates.
+
+Experimental prioritization guidance
+------------------------------------
+1. bandgap-related hypothesis: prioritize candidate profiles with enriched bandgap_bucket / low bandgap_distance_from_1p7.
+2. quenching/process hypothesis: test quenching_binary-enriched process windows first.
+3. annealing hypothesis: evaluate annealing_energy and annealing bucket windows around enriched ranges.
+4. device complexity hypothesis: compare high vs moderate device_complexity_score under same composition/process.
+5. composition diversity hypothesis: validate A_site_variance/cation_entropy/X_site_variance enriched ranges.
+
+Limitations
+-----------
+Model preferences are statistical and may not transfer directly to new labs/material systems.
+Descriptor gaps and missing values can bias enrichment interpretation.
+Use these outputs as screening hypotheses before experimental confirmation.
+Missing descriptor: A_site_variance, X_site_variance
